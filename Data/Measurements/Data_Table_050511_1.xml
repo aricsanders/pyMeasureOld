@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+	<Data_Description>
+		<Index>
+			Order in which the point was taken
+		</Index>
+		<Name>
+			
+		</Name>
+		<Notes>
+			Entering fake mode, keithley did not respond fake R=12000.1
+		</Notes>
+		<Resistance>
+			12000.1
+		</Resistance>
+		<Current>
+			Current in Amps
+		</Current>
+		<Instrument_Description>
+			C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+		</Instrument_Description>
+		<Voltage>
+			Voltage in Volts
+		</Voltage>
+		<Date>
+			2011-05-06T05:44:56.218000
+		</Date>
+	</Data_Description>
+	<Data>
+		<Tuple Current="-8.33326388947e-006" Index="0" Voltage="-0.1"/>
+		<Tuple Current="-6.48142746959e-006" Index="1" Voltage="-0.0777777777778"/>
+		<Tuple Current="-4.6295910497e-006" Index="2" Voltage="-0.0555555555556"/>
+		<Tuple Current="-2.77775462982e-006" Index="3" Voltage="-0.0333333333333"/>
+		<Tuple Current="-9.25918209941e-007" Index="4" Voltage="-0.0111111111111"/>
+		<Tuple Current="9.25918209941e-007" Index="5" Voltage="0.0111111111111"/>
+		<Tuple Current="2.77775462982e-006" Index="6" Voltage="0.0333333333333"/>
+		<Tuple Current="4.6295910497e-006" Index="7" Voltage="0.0555555555556"/>
+		<Tuple Current="6.48142746959e-006" Index="8" Voltage="0.0777777777778"/>
+		<Tuple Current="8.33326388947e-006" Index="9" Voltage="0.1"/>
+	</Data>
+</Data_Table>

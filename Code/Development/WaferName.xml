@@ -1,0 +1,92 @@
+<?xml-stylesheet type="text/xsl" href="WaferName_STYLE.xsl"?>
+<!-- Written by Aric Sanders 11/2010 -->
+<Process_Sheet>
+<Wafer_Name>
+My Test Wafer #1
+</Wafer_Name>
+<Process Index="1" Id="PHOTO_01">
+    <Process_Name>
+    Photolithography For Contacts
+    </Process_Name>
+    <Step Index="1">
+       <Step_Description>Spin SPR660 at 3500 RPM for 35 Seconds W/HMDS</Step_Description>
+       <Step_Parameters>
+            <Tuple Speed="3500" Resist="SPR 660" Time="35" Instrument="Solitec Auto Dispense Spinner" Options="Solvent | N2"/>
+       </Step_Parameters>
+     </Step>
+     <Step Index="2">
+        <Step_Description>Bake at 95C for 1 min</Step_Description>
+        <Step_Parameters>
+            <Tuple Temperature="95" Time="1 Min" Instrument="Hotplate"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="3">
+    <Step_Description>Expose 430 microJoules, mask: ETCH, Job File: jb112210.SelectiveEpi.aws</Step_Description>
+    <Step_Parameters>    
+    <Tuple Dose="430 microJoules" Intsrument="Stepper" Mask_Id="ETCH" Job_File="jb112210.SelectiveEpi.aws"/>
+    </Step_Parameters>
+
+    </Step>
+    <Step Index="4" Type="BAKE">
+        <Step_Description>Post-Exposure Bake at 95C for 1 min</Step_Description>
+        <Step_Parameters>    
+            <Tuple Temp="110C" Time="1 min" Intsrument="HOT PLATE"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="5">
+        <Step_Description>Develop CD40 for 30 seconds, w/PRE-RINSE </Step_Description>
+        <Step_Parameters>    
+            <Tuple Time="60 S" Intsrument="Solitec Auto Develop" Options="PRERINSE"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="6">
+        <Step_Description>Develop CD40 for 30 seconds, w/PRE-RINSE </Step_Description>
+        <Step_Parameters>    
+            <Tuple Time="60 S" Intsrument="Solitec Auto Develop" Options="PRERINSE"/>
+        </Step_Parameters>
+    </Step>
+    </Process>
+<Process Index="2" Id="PHOTO_02">
+    <Process_Name>
+    Photolithography For Contacts
+    </Process_Name>
+    <Step Index="1">
+       <Step_Description>Spin SPR660 at 3500 RPM for 35 Seconds W/HMDS</Step_Description>
+       <Step_Parameters>
+            <Tuple Speed="3500" Resist="SPR 660" Time="35" Instrument="Solitec Auto Dispense Spinner" Options="Solvent | N2"/>
+       </Step_Parameters>
+     </Step>
+     <Step Index="2">
+        <Step_Description>Bake at 95C for 1 min</Step_Description>
+        <Step_Parameters>
+            <Tuple Temperature="95" Time="1 Min" Instrument="Hotplate"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="3">
+    <Step_Description>Expose 430 microJoules, mask: ETCH, Job File: jb112210.SelectiveEpi.aws</Step_Description>
+    <Step_Parameters>    
+    <Tuple Dose="430 microJoules" Intsrument="Stepper" Mask_Id="ETCH" Job_File="jb112210.SelectiveEpi.aws"/>
+    </Step_Parameters>
+
+    </Step>
+    <Step Index="4" Type="BAKE">
+        <Step_Description>Post-Exposure Bake at 95C for 1 min</Step_Description>
+        <Step_Parameters>    
+            <Tuple Temp="110C" Time="1 min" Intsrument="HOT PLATE"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="5">
+        <Step_Description>Develop CD40 for 30 seconds, w/PRE-RINSE </Step_Description>
+        <Step_Parameters>    
+            <Tuple Time="60 S" Intsrument="Solitec Auto Develop" Options="PRERINSE"/>
+        </Step_Parameters>
+    </Step>
+    <Step Index="6">
+        <Step_Description>Develop CD40 for 30 seconds, w/PRE-RINSE </Step_Description>
+        <Step_Parameters>    
+            <Tuple Time="60 S" Intsrument="Solitec Auto Develop" Options="PRERINSE"/>
+        </Step_Parameters>
+    </Step>
+    </Process>
+
+</Process_Sheet>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_LOG_STYLE.XSL"?>
+<Log>
+  <Entry Date='2009-10-15T23:34:04.432000' Id='1'>Added LabJack Instrument Functionality to pyMeasure.Code.BackEnds</Entry>
+  <Entry Date='2009-10-19T23:12:26.912000' Id='2'>Added Front Ends for Ocean Optics. The Frame and Panel,both of which still need work</Entry>
+  <Entry Date='2009-10-22T22:15:27.323000' Id='3'>Added QE65000 panel to frontends</Entry>
+  <Entry Date='2009-10-22T22:15:55.089000' Id='4'>Added Ability to change parameters in for spectrometers</Entry>
+  <Entry Date='2009-10-27T17:07:08.596000' Id='-1'>This is a change log for pyMeasure. It consists of entries with
+        a date attribute, an Id attribute that is a simple integer, and text 
+        describing the changes made to pyMeasure.</Entry>
+  <Entry Date='2009-10-30T04:32:18.319000' Id='5'>Added save, to_HTML, add_entry functionality to the DataHandler.Instruments.InstrumentSheet class</Entry>
+  <Entry Date='2009-11-12T23:51:50.680000' Id='6'>Added DataTable Class in pyMeasure.Code.DataHandlers.Measurements</Entry>
+  <Entry Date='2009-11-12T23:52:26.242000' Id='7'>Added Instrument Sheets for CM110 and SIM960</Entry>
+  <Entry Date='2010-04-15T23:35:05.964000' Id='8'>Fixed save_state and save_current_state methods.In addition, cleaned up the States classes some. Made it possible to call an istrument by an alias, ie. (Instruments.VisaInstrument("SRS810") works now.</Entry>
+  <Entry Date='2010-05-13T19:15:41.905000' Id='9'>Deleted the text in entry 9
+</Entry>
+  <Entry Date='2010-06-04T17:35:49.225000' Id='10'>The log classes seem to be pretty complete, however a new log fuction woul be nice. In addition, the update of the display for the current log sould be added as a try clause in the button call back for save and open.</Entry>
+  <Entry Date='2010-06-04T17:40:50.022000' Id='11'>Using the basic interface class, I noticed that the Location bar in the IEPanel class is screwy. It updates improperly and needs to be fixed, it also should not add the same site twice to the history. </Entry>
+  <Entry Date='2010-06-04T17:59:54.710000' Id='12'>A new entry</Entry>
+  <Entry Date='2010-06-07T19:23:01.213000' Id='13'>I added a Javascript example to the basic interface frame. I also fixed the location bar in IEPanel, I used the after navigation event defined in windows. see for example http://msdn.microsoft.com/en-us/library/aa752084(VS.85).aspx, the Internet Explorer Object Documentation. 
+
+</Entry>
+  <Entry Date='2010-06-07T21:16:28.760000' Id='14'>I added a Run Script Menu Option in the MenuBar under Tools. It should be noted that there was some wierdness, I had to add the variable self.locals to have it work properly. Note the log time stamp is in GMT. I think that correcting it for time zone would be nice in the display.
+
+</Entry>
+</Log>

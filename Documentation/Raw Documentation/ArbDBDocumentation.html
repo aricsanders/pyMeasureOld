@@ -1,0 +1,262 @@
+<html> <head>
+   <title>Boa docs</title>
+</head>
+<body bgcolor="#FFFFFF">
+<h1>ArbDB.py</h1>
+Arbitary Database are tools for working with a XML database of URLs
+<p><b><font color="#FF0000">Classes</font></b><br>
+<p><a href="#FileRegister">FileRegister</a><BR><a href="#Metadata">Metadata</a>
+<p><b><font color="#FF0000">Functions</font></b><br>
+<p><a href="#URL_to_path">URL_to_path</a><BR><a href="#condition_URL">condition_URL</a><BR><a href="#Metadata_robot">Metadata_robot</a><BR><a href="#test_to_HTML">test_to_HTML</a><BR><a href="#test_Metadata">test_Metadata</a><BR><a href="#test_adding_metadata_to_all">test_adding_metadata_to_all</a><BR><a href="#test_alias">test_alias</a><BR><a href="#test_current_node_to_HTML">test_current_node_to_HTML</a><BR><a href="#test_name_search">test_name_search</a><BR><a href="#test_add_tree">test_add_tree</a>
+<hr>
+
+<a NAME="FileRegister"></a>
+<h2>FileRegister</h2>
+The base class for arbitrary database, which processes the 
+     File Register XML File.
+<p><b><font color="#FF0000">Derived from</font></b>
+<p>
+<p><b><font color="#FF0000">Methods</font></b>
+<p>
+<a href="#FileRegister__init__">__init__</a><br> <a href="#FileRegister__str__">__str__</a><br> <a href="#FileRegisteradd_entry">add_entry</a><br> <a href="#FileRegisteradd_tree">add_tree</a><br> <a href="#FileRegistercreate_Id">create_Id</a><br> <a href="#FileRegisterhelp">help</a><br> <a href="#FileRegisterremove_entry">remove_entry</a><br> <a href="#FileRegistersave">save</a><br> <a href="#FileRegisterto_HTML">to_HTML</a><br>
+<p>
+
+<hr><a NAME="FileRegister__init__"></a>
+<h3>
+FileRegister.__init__</h3>
+<b>__init__</b>(<i>self,file_path=None</i>)
+<p>&nbsp;Initializes the File Register Class.
+<p>
+ 
+<hr><a NAME="FileRegister__str__"></a>
+<h3>
+FileRegister.__str__</h3>
+<b>__str__</b>(<i>self</i>)
+<p>&nbsp;Defines the behavior of File Register when string functions are\n
+         called
+<p>
+ 
+<hr><a NAME="FileRegisteradd_entry"></a>
+<h3>
+FileRegister.add_entry</h3>
+<b>add_entry</b>(<i>self,URL</i>)
+<p>&nbsp;Adds an entry to the current File Register
+<p>
+ 
+<hr><a NAME="FileRegisteradd_tree"></a>
+<h3>
+FileRegister.add_tree</h3>
+<b>add_tree</b>(<i>self,root</i>)
+<p>&nbsp;Adds a directory and all sub folders and sub directories
+<p>
+ 
+<hr><a NAME="FileRegistercreate_Id"></a>
+<h3>
+FileRegister.create_Id</h3>
+<b>create_Id</b>(<i>self,URL</i>)
+<p>&nbsp;Creates or returns the existing Id element of a URL
+<p>
+ 
+<hr><a NAME="FileRegisterhelp"></a>
+<h3>
+FileRegister.help</h3>
+<b>help</b>(<i>self,style='txt'</i>)
+<p>&nbsp;Displays help for the class.
+<p>
+ 
+<hr><a NAME="FileRegisterremove_entry"></a>
+<h3>
+FileRegister.remove_entry</h3>
+<b>remove_entry</b>(<i>self,URL=None,Id=None</i>)
+<p>&nbsp;Removes an entry in the current File Register
+<p>
+ 
+<hr><a NAME="FileRegistersave"></a>
+<h3>
+FileRegister.save</h3>
+<b>save</b>(<i>self</i>)
+<p>&nbsp;Saves the current File Register as XML with no extra whitespaces.
+<p>
+ 
+<hr><a NAME="FileRegisterto_HTML"></a>
+<h3>
+FileRegister.to_HTML</h3>
+<b>to_HTML</b>(<i>self</i>)
+<p>&nbsp;Transforms current File Register to XHTML using XSL requires 
+             addin
+<p>
+
+<hr>
+<center>
+*</center>
+ 
+<a NAME="Metadata"></a>
+<h2>Metadata</h2>
+Metadata holds the metadata tags for a FileRegistry, If it already exists
+     and the parser gives an error check the xml file for special characters like &#30;
+<p><b><font color="#FF0000">Derived from</font></b>
+<p>
+<p><b><font color="#FF0000">Methods</font></b>
+<p>
+<a href="#Metadata__init__">__init__</a><br> <a href="#Metadata__str__">__str__</a><br> <a href="#Metadataadd_element_to_current_node">add_element_to_current_node</a><br> <a href="#Metadatacurrent_node_to_HTML">current_node_to_HTML</a><br> <a href="#Metadataget_file_node">get_file_node</a><br> <a href="#Metadataprint_current_node">print_current_node</a><br> <a href="#Metadataremove_element_in_current_node">remove_element_in_current_node</a><br> <a href="#Metadatasave">save</a><br> <a href="#Metadatasearch_name">search_name</a><br> <a href="#Metadataset_current_node">set_current_node</a><br> <a href="#Metadatato_HTML">to_HTML</a><br>
+<p>
+
+<hr><a NAME="Metadata__init__"></a>
+<h3>
+Metadata.__init__</h3>
+<b>__init__</b>(<i>self,FileRegistry,Metadata_File=None</i>)
+<p>&nbsp;Intializes the class Metadata
+<p>
+ 
+<hr><a NAME="Metadata__str__"></a>
+<h3>
+Metadata.__str__</h3>
+<b>__str__</b>(<i>self</i>)
+<p>&nbsp;Defines the behavior of File Register when string functions are\n
+         called
+<p>
+ 
+<hr><a NAME="Metadataadd_element_to_current_node"></a>
+<h3>
+Metadata.add_element_to_current_node</h3>
+<b>add_element_to_current_node</b>(<i>self,XML_tag=None,value=None,node=None,**Atributes</i>)
+<p>&nbsp;Adds a metadata element to the current file node
+<p>
+ 
+<hr><a NAME="Metadatacurrent_node_to_HTML"></a>
+<h3>
+Metadata.current_node_to_HTML</h3>
+<b>current_node_to_HTML</b>(<i>self</i>)
+<p>&nbsp;Returns a HTML document from the current node
+<p>
+ 
+<hr><a NAME="Metadataget_file_node"></a>
+<h3>
+Metadata.get_file_node</h3>
+<b>get_file_node</b>(<i>self,URL=None,Id=None</i>)
+<p>&nbsp;Returns the file node specified by URL or Id
+<p>
+ 
+<hr><a NAME="Metadataprint_current_node"></a>
+<h3>
+Metadata.print_current_node</h3>
+<b>print_current_node</b>(<i>self</i>)
+<p>&nbsp;Prints the current node
+<p>
+ 
+<hr><a NAME="Metadataremove_element_in_current_node"></a>
+<h3>
+Metadata.remove_element_in_current_node</h3>
+<b>remove_element_in_current_node</b>(<i>self,element_name</i>)
+<p>&nbsp;Removes all metadata elements with the same tagname
+          in the current file node
+<p>
+ 
+<hr><a NAME="Metadatasave"></a>
+<h3>
+Metadata.save</h3>
+<b>save</b>(<i>self</i>)
+<p>&nbsp;Saves the current MetaData as XML with no extra whitespaces.
+<p>
+ 
+<hr><a NAME="Metadatasearch_name"></a>
+<h3>
+Metadata.search_name</h3>
+<b>search_name</b>(<i>self,name=None,re_flags=re.IGNORECASE</i>)
+<p>&nbsp;Returns a list of URL's that have an element matching name
+<p>
+ 
+<hr><a NAME="Metadataset_current_node"></a>
+<h3>
+Metadata.set_current_node</h3>
+<b>set_current_node</b>(<i>self,URL=None,Id=None</i>)
+<p>&nbsp;Sets the current file node to the one specified by URL or Id
+<p>
+ 
+<hr><a NAME="Metadatato_HTML"></a>
+<h3>
+Metadata.to_HTML</h3>
+<b>to_HTML</b>(<i>self</i>)
+<p>&nbsp;Transforms current File Register to XHTML using XSL requires 
+             addin
+<p>
+
+<hr>
+<center>
+*</center>
+
+<hr><a NAME="URL_to_path"></a>
+<h3>
+URL_to_path</h3>
+<b>URL_to_path</b>(<i>URL,form='string'</i>)
+<p>&nbsp;Takes an URL and returns a path as form.
+     Argument form may be 'string' or 'list'
+<p>
+ 
+<hr><a NAME="condition_URL"></a>
+<h3>
+condition_URL</h3>
+<b>condition_URL</b>(<i>URL</i>)
+<p>&nbsp;Function that makes sure URL's have a / format and assigns host as
+     local host if there is not one. Also gives paths a file protocol.
+<p>
+ 
+<hr><a NAME="Metadata_robot"></a>
+<h3>
+Metadata_robot</h3>
+<b>Metadata_robot</b>(<i>file_registry,metadata=None</i>)
+<p>&nbsp;This robot checks for system metadata for the files in file_register
+     and adds them to metadata without repeats (first removes old data with the 
+     same tagname). If no metadata file is given it just writes them to a file in
+      the same folder as file_register
+<p>
+ 
+<hr><a NAME="test_to_HTML"></a>
+<h3>
+test_to_HTML</h3>
+<b>test_to_HTML</b>(<i></i>)
+<p>&nbsp;Tests the method FileRegister().to_HTML
+<p>
+ 
+<hr><a NAME="test_Metadata"></a>
+<h3>
+test_Metadata</h3>
+<b>test_Metadata</b>(<i>File_Registry=None,Metadata_File=None</i>)
+<p>&nbsp;
+<p>
+ 
+<hr><a NAME="test_adding_metadata_to_all"></a>
+<h3>
+test_adding_metadata_to_all</h3>
+<b>test_adding_metadata_to_all</b>(<i>file_registry=r'C:\Documents and Settings\sandersa\My Documents\Share\ArbDB\test.xml',metadata=r'C:\Documents and Settings\sandersa\My Documents\Share\ArbDB\test_Metadata.xml' </i>)
+<p>&nbsp;
+<p>
+ 
+<hr><a NAME="test_alias"></a>
+<h3>
+test_alias</h3>
+<b>test_alias</b>(<i></i>)
+<p>&nbsp;
+<p>
+ 
+<hr><a NAME="test_current_node_to_HTML"></a>
+<h3>
+test_current_node_to_HTML</h3>
+<b>test_current_node_to_HTML</b>(<i></i>)
+<p>&nbsp;test for Metadata.current_node_to_HTML
+<p>
+ 
+<hr><a NAME="test_name_search"></a>
+<h3>
+test_name_search</h3>
+<b>test_name_search</b>(<i>name='test',flags=None</i>)
+<p>&nbsp;"tests the name search method
+<p>
+ 
+<hr><a NAME="test_add_tree"></a>
+<h3>
+test_add_tree</h3>
+<b>test_add_tree</b>(<i>path='C:/Documents and Settings/sandersa/My Documents/Share/Core Shell paper'</i>)
+<p>&nbsp;Tests adding full tree to a file register, path is the root of the tree
+<p>
+</body></html>

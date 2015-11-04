@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-08-30T23:20:13.024000'>
+    <Tuple Set='INTG' Value='+1.0E-1'/>
+    <Tuple Set='DCTL' Value='0'/>
+    <Tuple Set='OFST' Value='+0.000'/>
+    <Tuple Set='DERV' Value='+1.0E-5'/>
+    <Tuple Set='APOL' Value='1'/>
+    <Tuple Set='PCTL' Value='1'/>
+    <Tuple Set='OCTL' Value='0'/>
+    <Tuple Set='SETP' Value='+0.000'/>
+    <Tuple Set='GAIN' Value='+1.0E+0'/>
+    <Tuple Set='ICTL' Value='0'/>
+    <Tuple Set='INPT' Value='0'/>
+  </State>
+</Instrument_State>

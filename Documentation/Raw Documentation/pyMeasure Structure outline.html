@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.4  (Win32)">
+	<META NAME="CREATED" CONTENT="20091006;11105200">
+	<META NAME="CHANGED" CONTENT="20091006;11342000">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 8.5in 11in; margin: 0.79in }
+		P { margin-bottom: 0.08in }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<P STYLE="margin-bottom: 0in">We will try this one more time.</P>
+<P STYLE="margin-bottom: 0in">The directory structure in pyMeasure is
+:</P>
+<P STYLE="margin-bottom: 0in"><U><B>pyMeasure</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+Top folder with the main application, the file register and metadata
+for each file. 
+</P>
+<P STYLE="margin-bottom: 0in"><U><B>Instruments</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+1<SUP>st</SUP> level folder that contains information regarding
+instruments in xml format</P>
+<P STYLE="margin-bottom: 0in"><U><B>Experiments</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+1<SUP>st</SUP> level folder that contains information regarding
+experiments in xml format</P>
+<P STYLE="margin-bottom: 0in"><U><B>Data</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	<U><B>Measurements</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<B>	</B><U><B>Logs</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	<U><B>States</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<B>	</B><U><B>Reports</B></U></P>
+<P STYLE="margin-bottom: 0in"><U><B>Settings</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+Persistent Data for Use by the application (images, preferences etc.)</P>
+<P STYLE="margin-bottom: 0in; text-decoration: none">  
+</P>
+<P STYLE="margin-bottom: 0in"><U><B>Code</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	<U><B>FrontEnds</B></U>- Code that deals with user interfaces (uses
+wx)</P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<B>	</B><U><B>BackEnds</B></U>- Code that talks with instruments
+(uses visa)</P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<B>	</B><U><B>DataHandlers</B></U>- Code that stores and processes
+data (uses xml)</P>
+<P STYLE="margin-bottom: 0in; border-top: none; border-bottom: 1.00pt solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in; font-weight: medium; text-decoration: none">
+<B>	</B><U><B>Misc</B></U>- If it does not involve a user interface,
+talking with an instrument, or processing data</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><U><B>Code</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+I have tried to keep the code as modular and  useful as possible. I
+have intentionally separated out things that talk to instruments,
+user interfaces, and data manipulation so that the code could used
+elsewhere.</P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+Where possible I have tried to use robust programming styles and
+tried to be consistent in my naming and documenting.</P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0in"><U><B>FrontEnds</B></U></P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+I have used the Boa Constructor RAD platform for a lot of the user
+interfaces. It is a program that allows quicker design of GUI's using
+the wxWindows library. To be truly modular</P>
+<OL>
+	<LI><P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	Define Guts in a wx.panel</P>
+	<LI><P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	Define Several Frames with tool bars,etc</P>
+	<LI><P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+	Using the  Custom classes in BOA Combine</P>
+</OL>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+In addition, using the other packages in  pyMeasure I have tried to
+make the user interfaces a little more readable by only calling
+functions from elsewhere. 
+</P>
+<P STYLE="margin-bottom: 0in; font-weight: medium; text-decoration: none">
+<BR>
+</P>
+</BODY>
+</HTML>

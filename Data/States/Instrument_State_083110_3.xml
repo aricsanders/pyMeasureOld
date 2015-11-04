@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-08-31T23:21:37.298000'>
+    <Tuple Set='AIN0' Value='1.39995991788'/>
+    <Tuple Set='AIN1' Value='1.50128642749'/>
+    <Tuple Set='AIN2' Value='1.39493179694'/>
+    <Tuple Set='AIN3' Value='1.39878869243'/>
+    <Tuple Set='DAC0' Value='1.5'/>
+    <Tuple Set='GND' Value='0'/>
+    <Tuple Set='DAC1' Value='None'/>
+    <Tuple Set='EIO3' Value='1.0'/>
+    <Tuple Set='EIO2' Value='1.0'/>
+    <Tuple Set='EIO1' Value='1.0'/>
+    <Tuple Set='EIO0' Value='0.0'/>
+    <Tuple Set='EIO7' Value='1.0'/>
+    <Tuple Set='EIO6' Value='1.0'/>
+    <Tuple Set='EIO5' Value='1.0'/>
+    <Tuple Set='EIO4' Value='1.0'/>
+    <Tuple Set='FIO6' Value='1.0'/>
+    <Tuple Set='FIO7' Value='0.0'/>
+    <Tuple Set='FIO4' Value='1.0'/>
+    <Tuple Set='FIO5' Value='1.0'/>
+    <Tuple Set='SPC' Value='None'/>
+    <Tuple Set='VS' Value='5'/>
+    <Tuple Set='CIO1' Value='1.0'/>
+    <Tuple Set='CIO0' Value='1.0'/>
+    <Tuple Set='CIO3' Value='1.0'/>
+    <Tuple Set='CIO2' Value='1.0'/>
+    <Tuple Set='SGND' Value='0'/>
+  </State>
+</Instrument_State>

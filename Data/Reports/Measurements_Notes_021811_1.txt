@@ -1,0 +1,2832 @@
+Data_Table_021311_2.xml
+2011-02-14T06:23:10.265000
+Index: Order in which the point was taken
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T06:23:10.265000
+
+Data_Table_021311_3.xml
+2011-02-14T06:25:20.203000
+Index: Order in which the point was taken
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T06:25:20.203000
+
+Data_Table_021311_4.xml
+2011-02-14T06:32:21.953000
+Index: Order in which the point was taken
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T06:32:21.953000
+
+Data_Table_021311_5.xml
+2011-02-14T06:32:40.593000
+Index: Order in which the point was taken
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T06:32:40.593000
+
+Data_Table_021311_6.xml
+2011-02-14T06:33:20.734000
+Index: Order in which the point was taken
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T06:33:20.734000
+
+Data_Table_021411_1.xml
+2011-02-14T15:19:56.915000
+Index: Order in which the point was taken
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:19:56.915000
+
+Data_Table_021411_10.xml
+2011-02-14T21:33:56.609000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:33:56.609000
+
+Data_Table_021411_11.xml
+2011-02-14T21:35:28.796000
+Index: Order in which the point was taken
+Name: NO Sample
+Notes: First Test to see how plots and other data are displayed.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:35:28.796000
+
+Data_Table_021411_12.xml
+2011-02-14T21:38:45.578000
+Index: Order in which the point was taken
+Name: NO Sample
+Notes: First Test to see how plots and other data are displayed.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:38:45.578000
+
+Data_Table_021411_13.xml
+2011-02-14T21:57:34.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II1-5 
+Notes: First test of real wire Beam ON
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:57:34.203000
+
+Data_Table_021411_14.xml
+2011-02-14T21:58:18.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II1-5 
+Notes: First test of real wire Beam OFF No Wire
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:58:18.250000
+
+Data_Table_021411_15.xml
+2011-02-14T22:08:04.265000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II1-5 
+Notes: BEAM On probes touching
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T22:08:04.265000
+
+Data_Table_021411_16.xml
+2011-02-14T22:10:09.421000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II1-5 
+Notes: BEAM On probes touching same Pad but not each other
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T22:10:09.421000
+
+Data_Table_021411_17.xml
+2011-02-14T22:23:49.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: ON Pads
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T22:23:49.890000
+
+Data_Table_021411_18.xml
+2011-02-14T22:40:40.109000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: ON Pads
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T22:40:40.109000
+
+Data_Table_021411_19.xml
+2011-02-14T22:44:15.953000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: ON Pads Beam OFF, original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T22:44:15.953000
+
+Data_Table_021411_2.xml
+2011-02-14T15:23:11.024000
+Index: Order in which the point was taken
+Name: Test Sample 1
+Notes: This is fake data that I am testing out on 02/14/2011
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:23:11.024000
+
+Data_Table_021411_20.xml
+2011-02-14T23:15:26.546000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: ON Pads Beam ON SPOT4 Last Data Set was SPOT 2, original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:15:26.546000
+
+Data_Table_021411_21.xml
+2011-02-14T23:18:22.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: Tips on Pads, Beam Blanked, original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:18:22.921000
+
+Data_Table_021411_22.xml
+2011-02-14T23:27:23
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: On wire Partially original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:27:23
+
+Data_Table_021411_23.xml
+2011-02-14T23:30:21.765000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: was not in contact-original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:30:21.765000
+
+Data_Table_021411_24.xml
+2011-02-14T23:35:54
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: Probe On Wire!!!!    original IV in air has R of 16318 Ohms.
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:35:54
+
+Data_Table_021411_25.xml
+2011-02-14T23:47:20.078000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 5-2
+Notes: There appears to be an accumalated error over time in Current. I am not sure if it is due to auto ranging when measuring large currents. 
+
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T23:47:20.078000
+
+Data_Table_021411_26.xml
+2011-02-15T03:29:46.735000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: This is fake Data
+Resistance: 12000.1
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T03:29:46.735000
+
+Data_Table_021411_27.xml
+2011-02-15T03:39:12.439000
+Index: Order in which the point was taken
+Name: Fake Data Sample 1
+Notes: This is just a test of the Resistance function.
+Resistance: 12000.1
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T03:39:12.439000
+
+Data_Table_021411_3.xml
+2011-02-14T15:24:37.915000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:24:37.915000
+
+Data_Table_021411_4.xml
+2011-02-14T15:24:43.930000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:24:43.930000
+
+Data_Table_021411_5.xml
+2011-02-14T15:27:00.540000
+Index: Order in which the point was taken
+Name: New Fake Sample #222
+Notes: This is just testing.
+Do you like it?
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:27:00.540000
+
+Data_Table_021411_6.xml
+2011-02-14T15:32:18.102000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: This is fake Data
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T15:32:18.102000
+
+Data_Table_021411_7.xml
+2011-02-14T21:27:03.906000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:27:03.906000
+
+Data_Table_021411_8.xml
+2011-02-14T21:30:10.375000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:30:10.375000
+
+Data_Table_021411_9.xml
+2011-02-14T21:32:47.781000
+Index: Order in which the point was taken
+Name: 
+    
+Notes: 
+    
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-14T21:32:47.781000
+
+Data_Table_021511_1.xml
+2011-02-15T15:58:37.046000
+Index: Order in which the point was taken
+Name: fake data
+Notes: Justr a test
+Resistance: -3.28019528114e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T15:58:37.046000
+
+Data_Table_021511_10.xml
+2011-02-15T17:46:16.734000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Lowest point of probe does not seem to be the tip. See image 011.
+Resistance: 26495.7991436
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:46:16.734000
+
+Data_Table_021511_11.xml
+2011-02-15T17:47:26.562000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Lowest point of probe does not seem to be the tip. See image 012.
+Resistance: 27004.8928257
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:47:26.562000
+
+Data_Table_021511_12.xml
+2011-02-15T17:49:02.671000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Was not in contact.
+Resistance: 9533210.96315
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:49:02.671000
+
+Data_Table_021511_13.xml
+2011-02-15T17:50:43.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Probe is clearly touching the wire, but there is no current.
+Resistance: 1331491703.5
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:50:43.406000
+
+Data_Table_021511_14.xml
+2011-02-15T17:54:13.390000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Beam is on wire is clearly defleted from position, I believe the probe is contact with the metal
+Resistance: 29435.7952631
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:54:13.390000
+
+Data_Table_021511_15.xml
+2011-02-15T17:58:22.265000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Melted wire! See image 019
+Resistance: 8711595.87484
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:58:22.265000
+
+Data_Table_021511_16.xml
+2011-02-15T18:04:15.968000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: New wire, clearly in contact (wire is bent) no current. 
+Resistance: 254828241053.0
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:04:15.968000
+
+Data_Table_021511_17.xml
+2011-02-15T18:06:32.437000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: New wire, clearly in contact (wire is bent) a poor contact has been achieved, Note wire is very deformed now.  
+Resistance: 315768991.155
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:06:32.437000
+
+Data_Table_021511_18.xml
+2011-02-15T18:09:44.859000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: New wire, clearly in contact (wire is bent) a poor contact has been achieved, Note wire is very deformed now.  See image 024
+Resistance: 41046910.1482
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:09:44.859000
+
+Data_Table_021511_19.xml
+2011-02-15T18:10:33.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: New wire, clearly in contact (wire is bent) a poor contact has been achieved, Note wire is very deformed now.  See image 024
+Resistance: 7188653.33944
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:10:33.750000
+
+Data_Table_021511_2.xml
+2011-02-15T17:23:42.531000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Very smal voltage not sure if probe tips are in contact
+Resistance: 18321005312.4
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:23:42.531000
+
+Data_Table_021511_20.xml
+2011-02-15T18:11:46.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: New wire, clearly in contact (wire is bent) a poor contact has been achieved, Note wire is very deformed now.  Beam Off.
+Resistance: 2946360.2452
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:11:46.218000
+
+Data_Table_021511_21.xml
+2011-02-15T18:12:51.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Repeat Scans Start here --- Number 2
+Resistance: 2194907.54344
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:12:51.937000
+
+Data_Table_021511_22.xml
+2011-02-15T18:13:32.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Number 3
+Resistance: 2021691.6716
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:13:32.218000
+
+Data_Table_021511_23.xml
+2011-02-15T18:14:40.125000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Number 4
+Resistance: 2369377.47259
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:14:40.125000
+
+Data_Table_021511_24.xml
+2011-02-15T18:15:25.687000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Number 5
+Resistance: 2147286.28508
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:15:25.687000
+
+Data_Table_021511_25.xml
+2011-02-15T18:16:10.125000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Number 5
+Resistance: 2064553.79194
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:16:10.125000
+
+Data_Table_021511_26.xml
+2011-02-15T18:17:25.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Repeat Scans-- Note I just got tired of numbering them, Look at the Date element for approximate times
+Resistance: 3013183.46338
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:17:25.750000
+
+Data_Table_021511_27.xml
+2011-02-15T18:17:59.109000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Repeat Scans-- Note I just got tired of numbering them, Look at the Date element for approximate times
+Resistance: 2510301.62727
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:17:59.109000
+
+Data_Table_021511_28.xml
+2011-02-15T18:20:56.609000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Extended Range and More Points, Repeat to see if it changes
+Resistance: 374555.461199
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:20:56.609000
+
+Data_Table_021511_29.xml
+2011-02-15T18:21:59.546000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Extended Range and More Points, Repeat to see if it changes
+Resistance: 380329.954633
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:21:59.546000
+
+Data_Table_021511_3.xml
+2011-02-15T17:25:47.984000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Very smal voltage not sure if probe tips are in contact Blanked the beam during scan
+Resistance: -1564861254.89
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:25:47.984000
+
+Data_Table_021511_30.xml
+2011-02-15T18:22:56.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Extended Range and More Points, Repeat to see if it changes
+Resistance: 422519.870627
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:22:56.812000
+
+Data_Table_021511_31.xml
+2011-02-15T18:24:37.765000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Also note that the probe on the wire is positive voltage, the lead side is always ground.
+Resistance: 394193.604519
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:24:37.765000
+
+Data_Table_021511_32.xml
+2011-02-15T18:36:52.171000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Different Contact Same wire, BEAM was on. 
+Resistance: 2013970.5379
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:36:52.171000
+
+Data_Table_021511_33.xml
+2011-02-15T18:38:23.187000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Different Contact Same wire, Beam was off wire is less bent than in previous contact.
+Resistance: 1951165.47021
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:38:23.187000
+
+Data_Table_021511_34.xml
+2011-02-15T18:40:09.734000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Moved wire to be more bent.
+Resistance: 5453523.03039
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:40:09.734000
+
+Data_Table_021511_35.xml
+2011-02-15T18:43:07.781000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 3685510.98898
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:43:07.781000
+
+Data_Table_021511_36.xml
+2011-02-15T18:44:17.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 1431649.16171
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:44:17.578000
+
+Data_Table_021511_37.xml
+2011-02-15T18:45:22.468000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 1177315.06512
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:45:22.468000
+
+Data_Table_021511_38.xml
+2011-02-15T18:46:27.109000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 1086065.01351
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:46:27.109000
+
+Data_Table_021511_39.xml
+2011-02-15T18:47:24.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 1022585.1266
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:47:24.812000
+
+Data_Table_021511_4.xml
+2011-02-15T17:29:43.015000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Very smal voltage not sure if probe tips are in contact Blanked the beam during scan. Paul Got 38230 Ohms originally.
+Resistance: 21550.396954
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:29:43.015000
+
+Data_Table_021511_40.xml
+2011-02-15T18:48:30.171000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 944083.431165
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:48:30.171000
+
+Data_Table_021511_41.xml
+2011-02-15T18:50:31.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 782909.992967
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:50:31.406000
+
+Data_Table_021511_42.xml
+2011-02-15T18:52:45.484000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Another new COntact wire is moved in other direction
+Resistance: 731638.06825
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T18:52:45.484000
+
+Data_Table_021511_43.xml
+2011-02-15T21:08:55.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: After Ga Wetting and reforming of the tip.
+Resistance: -1.05805522219e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:08:55.921000
+
+Data_Table_021511_44.xml
+2011-02-15T21:14:54.859000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: After Ga Wetting and reforming of the tip.
+Resistance: -11953994733.3
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:14:54.859000
+
+Data_Table_021511_45.xml
+2011-02-15T21:18:58.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: NO contact before damage to pad was evident
+Resistance: -46636439953.9
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:18:58.250000
+
+Data_Table_021511_46.xml
+2011-02-15T21:26:04.531000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Large contact was not working before. Paul Measured R is 10072 in air.
+Resistance: 7770.84936968
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:26:04.531000
+
+Data_Table_021511_47.xml
+2011-02-15T21:29:11.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was rastering.
+Resistance: 7445.91631158
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:29:11.203000
+
+Data_Table_021511_48.xml
+2011-02-15T21:33:18.796000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was Off See image 012
+Resistance: 7445.91631158
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:33:18.796000
+
+Data_Table_021511_49.xml
+2011-02-15T21:33:57.093000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was Off See image 012
+Resistance: 8228.04773151
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:33:57.093000
+
+Data_Table_021511_5.xml
+2011-02-15T17:31:36.281000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Beam was blanked for some time. Note that R increased by about 10%, consistent with what I saw yesterday.
+Resistance: 25694.6383251
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:31:36.281000
+
+Data_Table_021511_50.xml
+2011-02-15T21:35:40.375000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was Off See image 013. Slightlty Higher resistance? 
+Resistance: 8379.54402584
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:35:40.375000
+
+Data_Table_021511_51.xml
+2011-02-15T21:37:39.609000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was Off See image 015
+Resistance: 8418.84261979
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:37:39.609000
+
+Data_Table_021511_52.xml
+2011-02-15T21:42:58.859000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Different spot contact. Beam was ON see image 17, in the middle of the wire.
+Resistance: 7837.44391292
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:42:58.859000
+
+Data_Table_021511_53.xml
+2011-02-15T21:48:37.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Beam was nominally Off, See image 019, I tried to reform the tip by using the pad. 
+Resistance: 8049.89623674
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:48:37.250000
+
+Data_Table_021511_54.xml
+2011-02-15T21:50:33.062000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Beam was on. Changed position, Imag for reference is 020. 
+Resistance: 10505.5617553
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:50:33.062000
+
+Data_Table_021511_55.xml
+2011-02-15T21:54:19.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Beam was on, see Image 022. 
+Resistance: 10430736.9859
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:54:19.890000
+
+Data_Table_021511_56.xml
+2011-02-15T21:58:25.984000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Beam was on, see Image 023
+Resistance: 1038839.41078
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:58:25.984000
+
+Data_Table_021511_57.xml
+2011-02-15T21:59:59.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 3-4
+Notes: Beam was on, see Image 024
+Resistance: 8884.65868339
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T21:59:59.812000
+
+Data_Table_021511_58.xml
+2011-02-15T23:29:44.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Very large Ga droplet at end of probe, see image 01
+
+Resistance: 233472.310866
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:29:44.812000
+
+Data_Table_021511_59.xml
+2011-02-15T23:31:19.968000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Very large Ga droplet at end of probe, see image 01. Repeat Beam is in spot mode on droplet
+
+Resistance: 188639.653683
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:31:19.968000
+
+Data_Table_021511_6.xml
+2011-02-15T17:32:48.796000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: It is changing with time, Possibly finding dark state.
+Resistance: 26789.2008548
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:32:48.796000
+
+Data_Table_021511_60.xml
+2011-02-15T23:32:00.625000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Very large Ga droplet at end of probe, see image 01. Repeat Beam is in spot mode on droplet
+
+Resistance: 182974.8363
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:32:00.625000
+
+Data_Table_021511_61.xml
+2011-02-15T23:36:29.171000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .2 V ~ 1uA for a couple of minutes to let Ga melt. 
+
+Resistance: 60726.7567916
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:36:29.171000
+
+Data_Table_021511_62.xml
+2011-02-15T23:37:18.968000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .2 V ~ 1uA for a couple of minutes to let Ga melt. 
+
+Resistance: 58475.9427634
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:37:18.968000
+
+Data_Table_021511_63.xml
+2011-02-15T23:41:29.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .4 V ~ 10uA for a couple of minutes to let Ga melt. 
+
+Resistance: 77447.2191723
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:41:29.937000
+
+Data_Table_021511_64.xml
+2011-02-15T23:42:05.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .4 V ~ 10uA for a couple of minutes to let Ga melt. 
+
+Resistance: 53178.1601248
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:42:05.828000
+
+Data_Table_021511_65.xml
+2011-02-15T23:43:24.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .4 V ~ 10uA for a couple of minutes to let Ga melt. After restart to get rid of offset.
+
+Resistance: 60483.6773317
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:43:24.406000
+
+Data_Table_021511_66.xml
+2011-02-15T23:48:32.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .4 V ~ 10uA for a couple of minutes to let Ga melt. After restart to get rid of offset. See image 003.
+
+Resistance: 46940.2226531
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:48:32.578000
+
+Data_Table_021511_67.xml
+2011-02-15T23:54:05.312000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Let the contact dwell at .4 V ~ 10uA for a couple of minutes to let Ga melt. After restart to get rid of offset. See image 007.
+
+Resistance: 35187.6904159
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:54:05.312000
+
+Data_Table_021511_68.xml
+2011-02-15T23:59:44.375000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Moved the probe on the wire. See image 008. Beam was off for this one but on for previous ones. 
+Resistance: 40479.9288355
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T23:59:44.375000
+
+Data_Table_021511_69.xml
+2011-02-16T00:04:08.046000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Same as previous with beam on.
+Resistance: 36919.1670861
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:04:08.046000
+
+Data_Table_021511_7.xml
+2011-02-15T17:34:49.984000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: It is changing with time, Possibly finding dark state, Image 007 is SEM of device with the probe tips in the proper location.
+Resistance: 25554.4143083
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:34:49.984000
+
+Data_Table_021511_70.xml
+2011-02-16T00:10:13.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: Moved Probe, see Image 10
+Resistance: 29589.9110959
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:10:13.406000
+
+Data_Table_021511_71.xml
+2011-02-16T00:21:12.343000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: moved tip again
+Resistance: 43055.7406811
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:21:12.343000
+
+Data_Table_021511_72.xml
+2011-02-16T00:26:40.968000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: moved tip again
+Resistance: 38169.2367775
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:26:40.968000
+
+Data_Table_021511_73.xml
+2011-02-16T00:31:59.640000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: moved tip again
+Resistance: 27431.4369576
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:31:59.640000
+
+Data_Table_021511_74.xml
+2011-02-16T00:36:57.437000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 IV 4-3
+Notes: moved tip again
+Resistance: 35240.2781329
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T00:36:57.437000
+
+Data_Table_021511_8.xml
+2011-02-15T17:41:27.156000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: I did not think the probe was in contact. It appears as if it was, is this the wire or the pad see picture 009.
+Resistance: 23240.725776
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:41:27.156000
+
+Data_Table_021511_9.xml
+2011-02-15T17:43:13.640000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 2-8
+Notes: Retracted the probe and broke contact. See image 010.
+Resistance: 542985.280569
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-15T17:43:13.640000
+
+Data_Table_021611_1.xml
+2011-02-16T15:36:10.843000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: There seems to be an offset See images 001 and 002 for position
+Resistance: 967403374.462
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:36:10.843000
+
+Data_Table_021611_10.xml
+2011-02-16T16:01:05.953000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 010. Does the r-contact change significantly along the wire? Is it the loss of Ga at the begining?
+Resistance: 157946.311341
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:01:05.953000
+
+Data_Table_021611_100.xml
+2011-02-17T00:27:56.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 005. very curved. 
+Resistance: 295534.140425
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:27:56.218000
+
+Data_Table_021611_101.xml
+2011-02-17T00:29:23.953000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 005. very curved. Repeat
+Resistance: 310156.011721
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:29:23.953000
+
+Data_Table_021611_102.xml
+2011-02-17T00:31:49.453000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 005. very curved. Repeat
+Resistance: 236359.294256
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:31:49.453000
+
+Data_Table_021611_103.xml
+2011-02-17T00:35:19.875000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 007.
+Resistance: -1.89670720937e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:35:19.875000
+
+Data_Table_021611_104.xml
+2011-02-17T00:38:11.468000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 008, moved wire so that it was almost straight. 
+Resistance: 286091.107402
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:38:11.468000
+
+Data_Table_021611_105.xml
+2011-02-17T00:39:26.031000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 008, moved wire so that it was almost straight. 
+Resistance: 394661.612888
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:39:26.031000
+
+Data_Table_021611_106.xml
+2011-02-17T00:40:53.031000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 008, moved wire so that it was almost straight. 2nd repeat
+Resistance: 402636.092915
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:40:53.031000
+
+Data_Table_021611_107.xml
+2011-02-17T00:43:40.437000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 009. restarted keithley.
+Resistance: 337637.76358
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:43:40.437000
+
+Data_Table_021611_108.xml
+2011-02-17T00:47:19.031000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 009. repeat.
+Resistance: 404469.287112
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:47:19.031000
+
+Data_Table_021611_109.xml
+2011-02-17T00:49:23.656000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 010
+Resistance: 9.84433421585e+013
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:49:23.656000
+
+Data_Table_021611_11.xml
+2011-02-16T16:03:55.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 011. Ga on the tip is clearly a liquid. 
+Resistance: 74469.1041846
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:03:55.218000
+
+Data_Table_021611_110.xml
+2011-02-17T00:52:02.265000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 011. Tested contact first. 
+Resistance: 126068.014436
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:52:02.265000
+
+Data_Table_021611_111.xml
+2011-02-17T00:55:48.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 012. This is to test the IV after probing , was the wire changed significantly by probing? 
+Resistance: 495003.138427
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:55:48.359000
+
+Data_Table_021611_112.xml
+2011-02-17T00:58:06.265000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 012. repeat
+Resistance: 418452.428016
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:58:06.265000
+
+Data_Table_021611_113.xml
+2011-02-17T01:00:18.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 013. 
+Resistance: 304808.878212
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:00:18.359000
+
+Data_Table_021611_114.xml
+2011-02-17T01:01:30.390000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 013. repeat
+Resistance: 300949.287487
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:01:30.390000
+
+Data_Table_021611_115.xml
+2011-02-17T01:04:11.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 014. 
+Resistance: 163460.408079
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:04:11.406000
+
+Data_Table_021611_116.xml
+2011-02-17T01:05:22.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 014. repeat
+Resistance: 173315.57642
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:05:22.359000
+
+Data_Table_021611_117.xml
+2011-02-17T01:06:20.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 014. repeat
+Resistance: 146817.823486
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:06:20.828000
+
+Data_Table_021611_118.xml
+2011-02-17T01:10:46.609000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 016. Curve is similar to previous one with a litle more leakage in the reverse direction.
+Resistance: 258656.537281
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:10:46.609000
+
+Data_Table_021611_119.xml
+2011-02-17T01:12:04.296000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 016. repeat, same as first.
+Resistance: 266788.370059
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:12:04.296000
+
+Data_Table_021611_12.xml
+2011-02-16T16:08:06.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 012. Lots of Current. Will Try return trip, before each IV an image was taken at spot 3, 3us dwell time 1024x884, 2.9s frame time
+Resistance: 53529.526307
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:08:06.890000
+
+Data_Table_021611_120.xml
+2011-02-17T01:13:09.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 016. repeat, same as first.
+Resistance: 265666.970535
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:13:09.578000
+
+Data_Table_021611_121.xml
+2011-02-17T01:15:17.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 017.  Poor Contact
+Resistance: 3.88144872854e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:15:17.250000
+
+Data_Table_021611_122.xml
+2011-02-17T01:21:37.593000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 019. 
+Resistance: 211662.138898
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:21:37.593000
+
+Data_Table_021611_123.xml
+2011-02-17T01:22:51.515000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 019. 
+Resistance: 214443.6117
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:22:51.515000
+
+Data_Table_021611_124.xml
+2011-02-17T01:28:03.968000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 019. Lots of points and an extended range, will it break?
+Resistance: 132754.629874
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:28:03.968000
+
+Data_Table_021611_125.xml
+2011-02-17T01:40:16.781000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Testing wether or not running at 110 microamps will make the contact ohmic.No
+Resistance: 110673.622744
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:40:16.781000
+
+Data_Table_021611_126.xml
+2011-02-17T01:52:29.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: After running at 14V and 180 microamps a sweep from -14 to +14 is in store.see image 24 for before.OOps only goes to 10V
+Resistance: 112702.94893
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T01:52:29.750000
+
+Data_Table_021611_127.xml
+2011-02-17T02:00:48.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: An IV after death see image #26.  Its an IV curve!
+Resistance: 7019415.48952
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T02:00:48.500000
+
+Data_Table_021611_128.xml
+2011-02-17T02:01:55.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: An IV after death see image #26.  Its an IV curve!
+Resistance: 8443258.67798
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T02:01:55.921000
+
+Data_Table_021611_13.xml
+2011-02-16T16:12:36.187000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 013. Going back up the wire. Clearly some Ga droplets left behind.
+Resistance: 2549053.11044
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:12:36.187000
+
+Data_Table_021611_14.xml
+2011-02-16T16:32:29.468000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Free space IV on same wire see movie. 
+Resistance: 107184757570.0
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:32:29.468000
+
+Data_Table_021611_15.xml
+2011-02-16T16:34:54.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Free space IV on same wire see movie. See image 16
+Resistance: 48940359018.9
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:34:54.890000
+
+Data_Table_021611_16.xml
+2011-02-16T16:36:21.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Free space IV on same wire see movie. See image 16
+Resistance: 13941647.8093
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T16:36:21.890000
+
+Data_Table_021611_17.xml
+2011-02-16T17:33:16.609000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: New wire see image 1 for probe location
+Resistance: 2341160.80542
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:33:16.609000
+
+Data_Table_021611_18.xml
+2011-02-16T17:34:22.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repeat of previous
+Resistance: 610949.241135
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:34:22.578000
+
+Data_Table_021611_19.xml
+2011-02-16T17:36:30.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repeat of previous
+Resistance: 719721.189258
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:36:30.812000
+
+Data_Table_021611_2.xml
+2011-02-16T15:38:17.390000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Pushed against wire and restarted Keithley. Next sweep should be a larger voltage.
+Resistance: 407657650.95
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:38:17.390000
+
+Data_Table_021611_20.xml
+2011-02-16T17:38:35.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Reposition the probe. See image 02 No contact.
+Resistance: 2.75842406146e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:38:35.500000
+
+Data_Table_021611_21.xml
+2011-02-16T17:41:48.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Reposition the probe. See image 03, no contact
+Resistance: -3.55201029696e+013
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:41:48.359000
+
+Data_Table_021611_22.xml
+2011-02-16T17:47:27.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositiion th probe and increase the voltage. Possible damage to wire, should check image 04 Beam was on.
+Resistance: 76648.4909367
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:47:27.750000
+
+Data_Table_021611_23.xml
+2011-02-16T17:48:09.484000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositiion th probe and increase the voltage. Possible damage to wire, should check image 04 Beam was on.
+Resistance: 76648.4909367
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:48:09.484000
+
+Data_Table_021611_24.xml
+2011-02-16T17:50:48.140000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repeat of previous with beam off.
+Resistance: 88425.2037925
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:50:48.140000
+
+Data_Table_021611_25.xml
+2011-02-16T17:54:28.875000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: See image 05, moved probe.
+Resistance: 103100.796821
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:54:28.875000
+
+Data_Table_021611_26.xml
+2011-02-16T17:56:43.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repeat of previous with less points. Watch for autoranging
+Resistance: 101344.3802
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:56:43.500000
+
+Data_Table_021611_27.xml
+2011-02-16T17:58:57.531000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Moved probe, see image 06, no Contact?
+Resistance: 9.57390901656e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T17:58:57.531000
+
+Data_Table_021611_28.xml
+2011-02-16T18:01:39.640000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Moved probe, see image 07
+Resistance: -3.19398441127e+014
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:01:39.640000
+
+Data_Table_021611_29.xml
+2011-02-16T18:06:30.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, changed kv to 10. See image 08.
+Resistance: 107398.101827
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:06:30.250000
+
+Data_Table_021611_3.xml
+2011-02-16T15:39:32.781000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Larger Voltage.
+Resistance: 17304158.0189
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:39:32.781000
+
+Data_Table_021611_30.xml
+2011-02-16T18:11:20.406000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, changed kv to 10. See image 08. Repeat with beam off #2. Did not save #1. 
+Resistance: 110087.296819
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:11:20.406000
+
+Data_Table_021611_31.xml
+2011-02-16T18:12:44.031000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, changed kv to 10. See image 08. Repeat with beam off #3. Did not save #1.  No difference
+Resistance: 110153.327911
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:12:44.031000
+
+Data_Table_021611_32.xml
+2011-02-16T18:14:34.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, changed kv to 10. See image 08. Repeat with beam On, almost same as before
+Resistance: 96299.5584055
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:14:34.937000
+
+Data_Table_021611_33.xml
+2011-02-16T18:16:50.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, see image 09
+Resistance: 80087.7512502
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:16:50.578000
+
+Data_Table_021611_34.xml
+2011-02-16T18:19:26.671000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, see image 10
+Resistance: 96221.9279066
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:19:26.671000
+
+Data_Table_021611_35.xml
+2011-02-16T18:24:27.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, see image 10, Higher Voltage range.
+Resistance: 64590.8052752
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:24:27.750000
+
+Data_Table_021611_36.xml
+2011-02-16T18:30:14.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, see image 11 before, image 12 after, Higher Voltage range.
+Resistance: 52977.8379568
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:30:14.890000
+
+Data_Table_021611_37.xml
+2011-02-16T18:35:25.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Repositioned, see image 11 before, image 12 after, Higher Voltage range. Above 10V there is a problem with the data
+Resistance: 52850.4736266
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:35:25.828000
+
+Data_Table_021611_38.xml
+2011-02-16T18:42:02.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM OFF
+Resistance: 69234.9642747
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:42:02.828000
+
+Data_Table_021611_39.xml
+2011-02-16T18:44:28.734000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 1 Dwell time 100ns frame time .1s
+Resistance: 66289.1806697
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:44:28.734000
+
+Data_Table_021611_4.xml
+2011-02-16T15:44:02.156000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Larger Voltage, more points
+Resistance: 513592.020331
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:44:02.156000
+
+Data_Table_021611_40.xml
+2011-02-16T18:46:13.265000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 2 Dwell time 100ns frame time .1s
+Resistance: 66104.170841
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:46:13.265000
+
+Data_Table_021611_41.xml
+2011-02-16T18:48:00.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 3 Dwell time 100ns frame time .1s. Image Moves as a function of bias voltage down for neg up for pos.
+Resistance: 64045.2505267
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:48:00.578000
+
+Data_Table_021611_42.xml
+2011-02-16T18:50:00.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 4 Dwell time 100ns frame time .1s.  Had to beam shift to recenter
+Resistance: 67003.5128655
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:50:00.500000
+
+Data_Table_021611_43.xml
+2011-02-16T18:51:56.562000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 5 Dwell time 100ns frame time .1s.  
+Resistance: 66489.5404149
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:51:56.562000
+
+Data_Table_021611_44.xml
+2011-02-16T18:54:07.625000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 6 Dwell time 100ns frame time .1s.  
+Resistance: 68371.9438496
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:54:07.625000
+
+Data_Table_021611_45.xml
+2011-02-16T18:55:55.343000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM ON Spot 7 Dwell time 100ns frame time .1s.  
+Resistance: 69962.1058407
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:55:55.343000
+
+Data_Table_021611_46.xml
+2011-02-16T18:57:58.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-4
+Notes: Series to Determine Beam interaction. BEAM OFF After spot size test
+Resistance: 79430.978454
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T18:57:58.218000
+
+Data_Table_021611_47.xml
+2011-02-16T21:13:53.562000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: No Ga on Probe tip. See Image 2
+Resistance: 10689675.0168
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:13:53.562000
+
+Data_Table_021611_48.xml
+2011-02-16T21:15:05.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: No Ga on Probe tip. Repeat
+Resistance: 744936.479787
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:15:05.937000
+
+Data_Table_021611_49.xml
+2011-02-16T21:16:03.593000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: No Ga on Probe tip. Repeat
+Resistance: 117626976606.0
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:16:03.593000
+
+Data_Table_021611_5.xml
+2011-02-16T15:47:43.640000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Move Probe See Image 005. There appears to be some Ga left behind on the tip of the wire.
+Resistance: 123777.021856
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:47:43.640000
+
+Data_Table_021611_50.xml
+2011-02-16T21:31:20.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga On probe wire has shifted see image 003
+
+Resistance: 1664329.00474
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:31:20.359000
+
+Data_Table_021611_51.xml
+2011-02-16T21:32:44.984000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga On probe wire has shifted see image 003. Repeat with higher voltage.
+Resistance: 689133.802112
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:32:44.984000
+
+Data_Table_021611_52.xml
+2011-02-16T21:34:08.156000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga On probe wire has shifted see image 003. Repeat of previous
+Resistance: 470030.477247
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:34:08.156000
+
+Data_Table_021611_53.xml
+2011-02-16T21:35:25.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga On probe wire has shifted see image 003. Repeat of previous. Note contact has failed.
+Resistance: 4.15712758337e+013
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:35:25.203000
+
+Data_Table_021611_54.xml
+2011-02-16T21:38:01.359000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned Probe see image 004, was not a good contact.
+
+Resistance: 1.52463193993e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:38:01.359000
+
+Data_Table_021611_55.xml
+2011-02-16T21:41:44.140000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned Probe see image 005, to make a good contact: I applied 1.4 V to the tip and moved until there was current.
+
+Resistance: 31383864.0368
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:41:44.140000
+
+Data_Table_021611_56.xml
+2011-02-16T21:45:31.531000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Offset. Try again after restarting picoammeter.
+Resistance: 365504.190491
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:45:31.531000
+
+Data_Table_021611_57.xml
+2011-02-16T21:48:40.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Retake after contact see image 008 for location.
+Resistance: 544937.363327
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:48:40.578000
+
+Data_Table_021611_58.xml
+2011-02-16T21:51:46.609000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Move probe location. Optimized contact with voltage on see image 009 for location.
+Resistance: 547065.723832
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:51:46.609000
+
+Data_Table_021611_59.xml
+2011-02-16T21:53:05.015000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Move probe location. Optimized contact with voltage on see image 009 for location. Retake.
+Resistance: 812850.914695
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:53:05.015000
+
+Data_Table_021611_6.xml
+2011-02-16T15:50:04.015000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Move Probe See Image 006. Beam has been off for the IVs, however each one was taken after a slow scan.
+Resistance: 98812.1277056
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:50:04.015000
+
+Data_Table_021611_60.xml
+2011-02-16T21:57:02.671000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Moved the probe slighltly for a better contact, do I need more Ga?
+Resistance: 599727.993046
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T21:57:02.671000
+
+Data_Table_021611_61.xml
+2011-02-16T22:02:07.656000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Wire radius is ~240nm. Moved Probe tip see Image 012
+Resistance: 10732177.3658
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:02:07.656000
+
+Data_Table_021611_62.xml
+2011-02-16T22:05:17.078000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Bend and measure see image 14
+Resistance: 1023791683.98
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:05:17.078000
+
+Data_Table_021611_63.xml
+2011-02-16T22:07:45.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Bend and measure see image 15
+Resistance: 5.09321974281e+012
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:07:45.203000
+
+Data_Table_021611_64.xml
+2011-02-16T22:31:37.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Prep tip with more Ga. Try this wire first
+Resistance: 1165659.58037
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:31:37.812000
+
+Data_Table_021611_65.xml
+2011-02-16T22:32:48.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Repeat
+Resistance: 1003861.56365
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:32:48.921000
+
+Data_Table_021611_66.xml
+2011-02-16T22:35:50.859000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Change Position see image 2
+Resistance: 385070.782195
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:35:50.859000
+
+Data_Table_021611_67.xml
+2011-02-16T22:38:23.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Change Position see image 3
+Resistance: 320172.914687
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:38:23.500000
+
+Data_Table_021611_68.xml
+2011-02-16T22:41:21.250000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Change Position see image 4
+Resistance: 161658.34566
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:41:21.250000
+
+Data_Table_021611_69.xml
+2011-02-16T22:43:16.890000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Change Position see image 4. Wire failure during extended range scan see image 5. 
+Resistance: 1578285.27624
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:43:16.890000
+
+Data_Table_021611_7.xml
+2011-02-16T15:53:00.218000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 007. Wire bends a little for each movement. I try to relieve any curvature aquired, but look at images to be sure.
+Resistance: 231834.888984
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:53:00.218000
+
+Data_Table_021611_70.xml
+2011-02-16T22:48:15.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Free Space IV see image 6
+Resistance: 785904.452518
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:48:15.750000
+
+Data_Table_021611_71.xml
+2011-02-16T22:50:58.125000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Free Space IV see image 7, taken while sweep was going on, hence the bright bands
+Resistance: 244104628170.0
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:50:58.125000
+
+Data_Table_021611_72.xml
+2011-02-16T22:52:35.453000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 II 2-2
+Notes: Free Space IV. See image 8, destroyed while measuring, see image 9
+Resistance: -102585375555.0
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T22:52:35.453000
+
+Data_Table_021611_73.xml
+2011-02-16T23:18:54.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga Droplet
+Resistance: 4466570485.03
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:18:54.203000
+
+Data_Table_021611_74.xml
+2011-02-16T23:22:10.906000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Ga Droplet
+Resistance: 6569017829.96
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:22:10.906000
+
+Data_Table_021611_75.xml
+2011-02-16T23:24:28.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 2
+Resistance: 6569017829.96
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:24:28.578000
+
+Data_Table_021611_76.xml
+2011-02-16T23:25:39.078000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 2
+Resistance: 1.30583555035e+013
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:25:39.078000
+
+Data_Table_021611_77.xml
+2011-02-16T23:27:52.718000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 3
+Resistance: 222664.118894
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:27:52.718000
+
+Data_Table_021611_78.xml
+2011-02-16T23:29:06.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 3
+Resistance: 179232.020196
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:29:06.578000
+
+Data_Table_021611_79.xml
+2011-02-16T23:30:44.625000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 3
+Resistance: 163331.438437
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:30:44.625000
+
+Data_Table_021611_8.xml
+2011-02-16T15:55:38.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 008. Left some strain in the wire on purpose. It seems that the last contact was not as good as the previous ones.
+Resistance: 257262.080414
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:55:38.937000
+
+Data_Table_021611_80.xml
+2011-02-16T23:31:44.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 3
+Resistance: 159999.223804
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:31:44.500000
+
+Data_Table_021611_81.xml
+2011-02-16T23:32:44.625000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 3
+Resistance: 176654.010299
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:32:44.625000
+
+Data_Table_021611_82.xml
+2011-02-16T23:39:52.078000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repositioned probe see image 4
+Resistance: 167934.33862
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:39:52.078000
+
+Data_Table_021611_83.xml
+2011-02-16T23:41:09.468000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repeat with higher voltage
+Resistance: 165454.324738
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:41:09.468000
+
+Data_Table_021611_84.xml
+2011-02-16T23:42:45.093000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-5
+Notes: Repeat to see if higher votlage changed the IV. Not Much
+Resistance: 170075.173621
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:42:45.093000
+
+Data_Table_021611_85.xml
+2011-02-16T23:51:22.687000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: New Wire
+Resistance: 1288457.28187
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T23:51:22.687000
+
+Data_Table_021611_86.xml
+2011-02-17T00:04:33.953000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: New Wire Retake at higher voltage
+Resistance: 266047.973848
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:04:33.953000
+
+Data_Table_021611_87.xml
+2011-02-17T00:05:43.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: New Wire Retake at higher voltage
+Resistance: 264601.679009
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:05:43.921000
+
+Data_Table_021611_88.xml
+2011-02-17T00:06:47.875000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: New Wire Retake at higher voltage
+Resistance: 260291.707609
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:06:47.875000
+
+Data_Table_021611_89.xml
+2011-02-17T00:09:23.093000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 002.
+Resistance: 153650.092171
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:09:23.093000
+
+Data_Table_021611_9.xml
+2011-02-16T15:58:18.937000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 8-3
+Notes: Moved Probe see Image 009. Note the last two IV's were pretty consistent. 
+Resistance: 193677.179589
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-16T15:58:18.937000
+
+Data_Table_021611_90.xml
+2011-02-17T00:10:33.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 002.Repeat.
+Resistance: 150214.879691
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:10:33.578000
+
+Data_Table_021611_91.xml
+2011-02-17T00:12:30.421000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 003.
+Resistance: 193014.432896
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:12:30.421000
+
+Data_Table_021611_92.xml
+2011-02-17T00:13:37.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 003.Repeat
+Resistance: 211261.740843
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:13:37.812000
+
+Data_Table_021611_93.xml
+2011-02-17T00:14:43.453000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 003.Repeat
+Resistance: 209130.327087
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:14:43.453000
+
+Data_Table_021611_94.xml
+2011-02-17T00:15:57.453000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 003.Repeat, seems to be stable.
+Resistance: 202759.503323
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:15:57.453000
+
+Data_Table_021611_95.xml
+2011-02-17T00:19:55.453000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 004, wire got moved alot. each direction several times.
+Resistance: 263639.31639
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:19:55.453000
+
+Data_Table_021611_96.xml
+2011-02-17T00:21:07.578000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 004, wire got moved alot. each direction several times.Repeat
+Resistance: 217875.979544
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:21:07.578000
+
+Data_Table_021611_97.xml
+2011-02-17T00:22:22.140000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 004, wire got moved alot. each direction several times.Repeat
+Resistance: 291085.251592
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:22:22.140000
+
+Data_Table_021611_98.xml
+2011-02-17T00:23:30.437000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 004, wire got moved alot. each direction several times.Repeat
+Resistance: 227060.875182
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:23:30.437000
+
+Data_Table_021611_99.xml
+2011-02-17T00:24:50.109000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 III 7-6
+Notes: Changed probe position see image 004, wire got moved alot. each direction several times.Repeat
+Resistance: 237483.459567
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T00:24:50.109000
+
+Data_Table_021711_1.xml
+2011-02-17T16:24:16.484000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam On 
+Resistance: 25942.614054
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T16:24:16.484000
+
+Data_Table_021711_10.xml
+2011-02-17T18:10:25.375000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 6  exposure 100ns/dwell frame time .1s 
+Resistance: 26894.812915
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:10:25.375000
+
+Data_Table_021711_11.xml
+2011-02-17T18:11:51.375000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 7  exposure 100ns/dwell frame time .1s. refocused slightly.
+Resistance: 29021.7432437
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:11:51.375000
+
+Data_Table_021711_12.xml
+2011-02-17T18:13:24.500000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF repeat after exposure
+Resistance: 34836.4610898
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:13:24.500000
+
+Data_Table_021711_13.xml
+2011-02-17T18:14:50.203000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot3 same conditions to check. 
+Resistance: 30746.0694566
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:14:50.203000
+
+Data_Table_021711_14.xml
+2011-02-17T18:16:26.812000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, repeat after Spot 3. 
+Resistance: 34352.2441083
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:16:26.812000
+
+Data_Table_021711_15.xml
+2011-02-17T18:17:41.703000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 3 again
+Resistance: 30563.1745396
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:17:41.703000
+
+Data_Table_021711_16.xml
+2011-02-17T18:19:15.671000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF. Reset Picoammeter
+Resistance: 34622.4016669
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:19:15.671000
+
+Data_Table_021711_17.xml
+2011-02-17T18:20:42.281000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON after reset spot 3
+Resistance: 30676.7021134
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:20:42.281000
+
+Data_Table_021711_18.xml
+2011-02-17T18:21:53.750000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, again
+Resistance: 33875.0177115
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:21:53.750000
+
+Data_Table_021711_19.xml
+2011-02-17T18:30:10.140000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, again, after ~10-15min sit time
+Resistance: 33879.5934621
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:30:10.140000
+
+Data_Table_021711_2.xml
+2011-02-17T17:56:51.062000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: 
+    
+Resistance: 27271.4056275
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T17:56:51.062000
+
+Data_Table_021711_20.xml
+2011-02-17T18:33:01.843000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, again, after ~10-15min sit time
+Resistance: 34207.9129822
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:33:01.843000
+
+Data_Table_021711_21.xml
+2011-02-17T18:34:23.171000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, again, after ~10-15min sit time
+Resistance: 34412.1911191
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:34:23.171000
+
+Data_Table_021711_22.xml
+2011-02-17T18:37:53.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam OFF, again, image 005
+Resistance: 33798.2189056
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:37:53.828000
+
+Data_Table_021711_23.xml
+2011-02-17T21:50:23.109000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Demo, people around.
+Resistance: 34071.458855
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T21:50:23.109000
+
+Data_Table_021711_24.xml
+2011-02-17T21:53:54.296000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Demo, people around.
+Resistance: 51401.0981192
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T21:53:54.296000
+
+Data_Table_021711_3.xml
+2011-02-17T17:58:39.921000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam Off, Cailbration sample.
+Resistance: 28459.5289555
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T17:58:39.921000
+
+Data_Table_021711_4.xml
+2011-02-17T18:01:21.828000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 2  exposure 100ns/dwell frame time .1s 
+Resistance: 24219.5177136
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:01:21.828000
+
+Data_Table_021711_5.xml
+2011-02-17T18:01:29.234000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 1  exposure 100ns/dwell frame time .1s 
+Resistance: 24219.5177136
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:01:29.234000
+
+Data_Table_021711_6.xml
+2011-02-17T18:04:48.796000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 2  exposure 100ns/dwell frame time .1s Note the first one with spot 2 is really spot 1.
+Resistance: 23614.3613059
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:04:48.796000
+
+Data_Table_021711_7.xml
+2011-02-17T18:06:31.328000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 3  exposure 100ns/dwell frame time .1s 
+Resistance: 22634.5185548
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:06:31.328000
+
+Data_Table_021711_8.xml
+2011-02-17T18:07:52.593000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 4  exposure 100ns/dwell frame time .1s 
+Resistance: 22925.3287161
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:07:52.593000
+
+Data_Table_021711_9.xml
+2011-02-17T18:09:09.093000
+Index: Order in which the point was taken
+Name: 23732 WB C023 DIE 1 I 5-2
+Notes: Beam ON Spot 5  exposure 100ns/dwell frame time .1s 
+Resistance: 24618.6741733
+Current: Current in Amps
+Instrument_Description: C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+Voltage: Voltage in Volts
+Date: 2011-02-17T18:09:09.093000
+

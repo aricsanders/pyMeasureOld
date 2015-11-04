@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>23732 WB C023 DIE 1 III 7-5</Name>
+    <Notes>Wire radius is ~240nm. Moved Probe tip see Image 012</Notes>
+    <Resistance>10732177.3658</Resistance>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-16T22:02:07.656000</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-1.206413E-14' Index='0' Voltage='+000.0000'/>
+    <Tuple Current='+1.240465E-12' Index='1' Voltage='-000.1052'/>
+    <Tuple Current='-6.588462E-13' Index='2' Voltage='-000.2106'/>
+    <Tuple Current='-1.906955E-12' Index='3' Voltage='-000.3158'/>
+    <Tuple Current='-5.669380E-13' Index='4' Voltage='-000.4210'/>
+    <Tuple Current='+1.355906E-12' Index='5' Voltage='-000.5264'/>
+    <Tuple Current='+3.277744E-12' Index='6' Voltage='-000.6316'/>
+    <Tuple Current='+2.463438E-12' Index='7' Voltage='-000.7368'/>
+    <Tuple Current='+1.555812E-12' Index='8' Voltage='-000.8422'/>
+    <Tuple Current='-1.465710E-12' Index='9' Voltage='-000.9474'/>
+    <Tuple Current='-2.995780E-12' Index='10' Voltage='-001.0526'/>
+    <Tuple Current='-1.280488E-12' Index='11' Voltage='-001.1578'/>
+    <Tuple Current='-9.721798E-13' Index='12' Voltage='-001.2632'/>
+    <Tuple Current='+7.169682E-13' Index='13' Voltage='-001.3684'/>
+    <Tuple Current='+1.112960E-12' Index='14' Voltage='-001.4736'/>
+    <Tuple Current='+1.205471E-12' Index='15' Voltage='-001.5790'/>
+    <Tuple Current='-7.662412E-13' Index='16' Voltage='-001.6842'/>
+    <Tuple Current='-2.225720E-12' Index='17' Voltage='-001.7894'/>
+    <Tuple Current='-3.780123E-12' Index='18' Voltage='-001.8948'/>
+    <Tuple Current='-3.092116E-12' Index='19' Voltage='-002.0000'/>
+    <Tuple Current='-2.535033E-12' Index='20' Voltage='-002.0000'/>
+    <Tuple Current='+4.766326E-14' Index='21' Voltage='-001.8948'/>
+    <Tuple Current='-8.525177E-13' Index='22' Voltage='-001.7894'/>
+    <Tuple Current='-5.630045E-15' Index='23' Voltage='-001.6842'/>
+    <Tuple Current='-8.768593E-14' Index='24' Voltage='-001.5790'/>
+    <Tuple Current='-7.320559E-13' Index='25' Voltage='-001.4736'/>
+    <Tuple Current='-3.770916E-13' Index='26' Voltage='-001.3684'/>
+    <Tuple Current='-2.715016E-14' Index='27' Voltage='-001.2632'/>
+    <Tuple Current='+7.425085E-13' Index='28' Voltage='-001.1578'/>
+    <Tuple Current='+2.726693E-12' Index='29' Voltage='-001.0526'/>
+    <Tuple Current='+3.037815E-12' Index='30' Voltage='-000.9474'/>
+    <Tuple Current='+2.494410E-12' Index='31' Voltage='-000.8422'/>
+    <Tuple Current='+5.045912E-13' Index='32' Voltage='-000.7368'/>
+    <Tuple Current='-1.103510E-12' Index='33' Voltage='-000.6316'/>
+    <Tuple Current='-1.660793E-12' Index='34' Voltage='-000.5264'/>
+    <Tuple Current='-1.910572E-13' Index='35' Voltage='-000.4210'/>
+    <Tuple Current='+2.277806E-12' Index='36' Voltage='-000.3158'/>
+    <Tuple Current='+3.518877E-12' Index='37' Voltage='-000.2106'/>
+    <Tuple Current='+4.646117E-12' Index='38' Voltage='-000.1052'/>
+    <Tuple Current='+2.538652E-12' Index='39' Voltage='+000.0000'/>
+    <Tuple Current='+4.551186E-13' Index='40' Voltage='+000.0000'/>
+    <Tuple Current='+3.147626E-12' Index='41' Voltage='+000.1052'/>
+    <Tuple Current='+1.911691E-11' Index='42' Voltage='+000.2106'/>
+    <Tuple Current='+1.727126E-10' Index='43' Voltage='+000.3158'/>
+    <Tuple Current='+1.105154E-09' Index='44' Voltage='+000.4210'/>
+    <Tuple Current='+2.440913E-09' Index='45' Voltage='+000.5264'/>
+    <Tuple Current='+6.598751E-09' Index='46' Voltage='+000.6316'/>
+    <Tuple Current='+1.186121E-08' Index='47' Voltage='+000.7368'/>
+    <Tuple Current='+2.430073E-08' Index='48' Voltage='+000.8422'/>
+    <Tuple Current='+5.209717E-08' Index='49' Voltage='+000.9474'/>
+    <Tuple Current='+7.342525E-08' Index='50' Voltage='+001.0526'/>
+    <Tuple Current='+1.090859E-07' Index='51' Voltage='+001.1578'/>
+    <Tuple Current='+1.529056E-07' Index='52' Voltage='+001.2632'/>
+    <Tuple Current='+2.079936E-07' Index='53' Voltage='+001.3684'/>
+    <Tuple Current='+2.616202E-07' Index='54' Voltage='+001.4736'/>
+    <Tuple Current='+3.313454E-07' Index='55' Voltage='+001.5790'/>
+    <Tuple Current='+3.716668E-07' Index='56' Voltage='+001.6842'/>
+    <Tuple Current='+4.973242E-07' Index='57' Voltage='+001.7894'/>
+    <Tuple Current='+5.879527E-07' Index='58' Voltage='+001.8948'/>
+    <Tuple Current='+6.898755E-07' Index='59' Voltage='+002.0000'/>
+    <Tuple Current='+6.811287E-07' Index='60' Voltage='+002.0000'/>
+    <Tuple Current='+5.497612E-07' Index='61' Voltage='+001.8948'/>
+    <Tuple Current='+4.106189E-07' Index='62' Voltage='+001.7894'/>
+    <Tuple Current='+3.071264E-07' Index='63' Voltage='+001.6842'/>
+    <Tuple Current='+2.211774E-07' Index='64' Voltage='+001.5790'/>
+    <Tuple Current='+1.507377E-07' Index='65' Voltage='+001.4736'/>
+    <Tuple Current='+9.280177E-08' Index='66' Voltage='+001.3684'/>
+    <Tuple Current='+6.469055E-08' Index='67' Voltage='+001.2632'/>
+    <Tuple Current='+3.598095E-08' Index='68' Voltage='+001.1578'/>
+    <Tuple Current='+2.344902E-08' Index='69' Voltage='+001.0526'/>
+    <Tuple Current='+7.502554E-09' Index='70' Voltage='+000.9474'/>
+    <Tuple Current='+4.969611E-09' Index='71' Voltage='+000.8422'/>
+    <Tuple Current='+2.630773E-09' Index='72' Voltage='+000.7368'/>
+    <Tuple Current='+6.596566E-10' Index='73' Voltage='+000.6316'/>
+    <Tuple Current='+2.129106E-10' Index='74' Voltage='+000.5264'/>
+    <Tuple Current='+2.831538E-11' Index='75' Voltage='+000.4210'/>
+    <Tuple Current='+6.082871E-12' Index='76' Voltage='+000.3158'/>
+    <Tuple Current='+2.382791E-12' Index='77' Voltage='+000.2106'/>
+    <Tuple Current='+2.577868E-12' Index='78' Voltage='+000.1052'/>
+    <Tuple Current='+1.438362E-12' Index='79' Voltage='+000.0000'/>
+  </Data>
+</Data_Table>

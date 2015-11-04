@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+	<Data_Description>
+		<Current>
+			Current in Amps
+		</Current>
+		<Index>
+			Order in which the point was taken
+		</Index>
+		<Instrument_Description>
+			C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml
+		</Instrument_Description>
+		<Voltage>
+			Voltage in Volts
+		</Voltage>
+		<Date>
+			2013-04-11T23:49:58.647000
+		</Date>
+		<Notes>
+			Belongs with Image IIII 3_4 Right Pad Wire 1
+		</Notes>
+		<Resistance>
+			618053.708045
+		</Resistance>
+		<Name>
+			IIII 3-4 Right Pad Wire 1
+		</Name>
+	</Data_Description>
+	<Data>
+		<Tuple Current="+8.662244E-10" Index="0" Voltage="+000.0000"/>
+		<Tuple Current="-3.119277E-11" Index="1" Voltage="-000.1110"/>
+		<Tuple Current="-1.063483E-09" Index="2" Voltage="-000.2220"/>
+		<Tuple Current="-3.768150E-09" Index="3" Voltage="-000.3330"/>
+		<Tuple Current="-9.083513E-09" Index="4" Voltage="-000.4440"/>
+		<Tuple Current="-1.803369E-08" Index="5" Voltage="-000.5560"/>
+		<Tuple Current="-3.124131E-08" Index="6" Voltage="-000.6670"/>
+		<Tuple Current="-4.856747E-08" Index="7" Voltage="-000.7780"/>
+		<Tuple Current="-7.170757E-08" Index="8" Voltage="-000.8890"/>
+		<Tuple Current="-9.833841E-08" Index="9" Voltage="-001.0000"/>
+		<Tuple Current="-9.681636E-08" Index="10" Voltage="-001.0000"/>
+		<Tuple Current="-6.881591E-08" Index="11" Voltage="-000.8890"/>
+		<Tuple Current="-4.768128E-08" Index="12" Voltage="-000.7780"/>
+		<Tuple Current="-3.007284E-08" Index="13" Voltage="-000.6670"/>
+		<Tuple Current="-1.682847E-08" Index="14" Voltage="-000.5560"/>
+		<Tuple Current="-8.538117E-09" Index="15" Voltage="-000.4440"/>
+		<Tuple Current="-3.551518E-09" Index="16" Voltage="-000.3330"/>
+		<Tuple Current="-1.089092E-09" Index="17" Voltage="-000.2220"/>
+		<Tuple Current="-4.953821E-11" Index="18" Voltage="-000.1110"/>
+		<Tuple Current="+8.900702E-10" Index="19" Voltage="+000.0000"/>
+		<Tuple Current="+8.869127E-10" Index="20" Voltage="+000.0000"/>
+		<Tuple Current="+4.166350E-09" Index="21" Voltage="+000.1110"/>
+		<Tuple Current="+2.291845E-08" Index="22" Voltage="+000.2220"/>
+		<Tuple Current="+9.840722E-08" Index="23" Voltage="+000.3330"/>
+		<Tuple Current="+2.975425E-07" Index="24" Voltage="+000.4440"/>
+		<Tuple Current="+6.776557E-07" Index="25" Voltage="+000.5560"/>
+		<Tuple Current="+1.253087E-06" Index="26" Voltage="+000.6670"/>
+		<Tuple Current="+1.901636E-06" Index="27" Voltage="+000.7780"/>
+		<Tuple Current="+3.588651E-06" Index="28" Voltage="+000.8890"/>
+		<Tuple Current="+4.909194E-06" Index="29" Voltage="+001.0000"/>
+		<Tuple Current="+4.892026E-06" Index="30" Voltage="+001.0000"/>
+		<Tuple Current="+3.552380E-06" Index="31" Voltage="+000.8890"/>
+		<Tuple Current="+2.370049E-06" Index="32" Voltage="+000.7780"/>
+		<Tuple Current="+1.375249E-06" Index="33" Voltage="+000.6670"/>
+		<Tuple Current="+6.872369E-07" Index="34" Voltage="+000.5560"/>
+		<Tuple Current="+2.768256E-07" Index="35" Voltage="+000.4440"/>
+		<Tuple Current="+8.334484E-08" Index="36" Voltage="+000.3330"/>
+		<Tuple Current="+1.792475E-08" Index="37" Voltage="+000.2220"/>
+		<Tuple Current="+3.533293E-09" Index="38" Voltage="+000.1110"/>
+		<Tuple Current="+7.686356E-10" Index="39" Voltage="+000.0000"/>
+	</Data>
+</Data_Table>

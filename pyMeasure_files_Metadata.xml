@@ -1,0 +1,2136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:\Documents and Settings\sandersa\My Documents\Share\ArbDB\METADATA_STYLE.xsl"?>
+<?xml-FileRegistry href="C:\Documents and Settings\sandersa\My Documents\Share\pyMeasure\pyMeasure_files.xml"?>
+<File_Registry>
+  <File Date='2010-07-21T22:56:46.140000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.11'>
+    <System_Metadata mod_time='2010-03-30T15:33:04' user_id='0' creation_time='2009-02-05T21:44:41' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.140000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.12'>
+    <System_Metadata mod_time='2009-09-22T15:06:05' user_id='0' creation_time='2009-02-05T21:44:40' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:51' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.156000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.13'>
+    <System_Metadata mod_time='2009-02-05T21:44:39' user_id='0' creation_time='2009-02-05T21:44:39' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:53' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.156000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Experiments' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.14'>
+    <System_Metadata mod_time='2009-02-05T21:44:39' user_id='0' creation_time='2009-02-05T21:44:39' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:54' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.171000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15'>
+    <System_Metadata mod_time='2009-11-12T16:08:00' user_id='0' creation_time='2009-02-05T21:44:38' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:54' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.171000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.16'>
+    <System_Metadata mod_time='2010-04-15T14:01:25' user_id='0' creation_time='2009-10-19T17:17:11' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.187000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.27'>
+    <System_Metadata mod_time='2009-10-06T09:32:49' user_id='0' creation_time='2009-09-14T11:14:40' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T13:07:52' device='0' group_id='0' size='54'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.187000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.28'>
+    <System_Metadata mod_time='2010-03-30T15:33:04' user_id='0' creation_time='2009-09-14T11:25:29' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='162'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.202000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.11.11'>
+    <System_Metadata mod_time='2010-06-07T13:39:49' user_id='0' creation_time='2009-02-05T21:44:42' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.218000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.11.12'>
+    <System_Metadata mod_time='2010-07-21T16:53:18' user_id='0' creation_time='2009-02-05T21:44:42' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.218000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.11.13'>
+    <System_Metadata mod_time='2010-07-21T15:32:10' user_id='0' creation_time='2009-02-05T21:44:42' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:49' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.234000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.11.14'>
+    <System_Metadata mod_time='2010-07-21T16:52:58' user_id='0' creation_time='2009-02-05T21:44:41' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.249000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.25'>
+    <System_Metadata mod_time='2009-10-06T09:54:44' user_id='0' creation_time='2009-09-14T11:31:02' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T13:07:52' device='0' group_id='0' size='26'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.265000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.26'>
+    <System_Metadata mod_time='2010-03-30T15:33:04' user_id='0' creation_time='2009-09-14T13:10:58' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='167'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.281000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/ImageFilePathInfo.ini' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.21'>
+    <System_Metadata mod_time='2009-10-30T22:13:14' user_id='0' creation_time='2009-10-19T13:44:06' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:07:28' device='0' group_id='0' size='49'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.296000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/Instruments.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.22'>
+    <System_Metadata mod_time='2010-05-11T16:33:14' user_id='0' creation_time='2009-10-01T09:47:41' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:07:23' device='0' group_id='0' size='41532'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" The Module Instruments Contains Classes and functions to control 
+USB DAQ's. """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.312000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/Instruments.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.23'>
+    <System_Metadata mod_time='2010-06-07T13:39:49' user_id='0' creation_time='2009-10-05T17:17:33' number_links='0' ino='0' mode='33206' acess_time='2010-07-14T06:20:21' device='0' group_id='0' size='37499'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.327000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/Mightex.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.24'>
+    <System_Metadata mod_time='2009-10-30T22:17:03' user_id='0' creation_time='2009-10-07T10:24:58' number_links='0' ino='0' mode='33206' acess_time='2010-07-14T06:22:54' device='0' group_id='0' size='50868'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Module for controling the mightex usb camera, using the Mightex
+ resources."""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.343000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/Mightex.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.25'>
+    <System_Metadata mod_time='2010-03-30T15:33:25' user_id='0' creation_time='2009-10-08T16:27:48' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:07:22' device='0' group_id='0' size='52346'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.359000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/Mightex.txt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.26'>
+    <System_Metadata mod_time='2009-10-19T09:24:43' user_id='0' creation_time='2009-10-08T12:57:41' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:25' device='0' group_id='0' size='1448'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.374000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/MTApplication.exe' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.27'>
+    <System_Metadata mod_time='2009-01-06T08:33:10' user_id='0' creation_time='2009-10-19T13:43:51' number_links='0' ino='0' mode='33279' acess_time='2010-07-21T03:38:21' device='0' group_id='0' size='475648'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.406000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/MtUsbLib.dll' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.28'>
+    <System_Metadata mod_time='2006-09-26T00:55:38' user_id='0' creation_time='2009-10-07T10:43:58' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:36' device='0' group_id='0' size='233608'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.421000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/MT_USBCamera_SDK.dll' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.29'>
+    <System_Metadata mod_time='2008-12-31T08:55:18' user_id='0' creation_time='2009-10-07T10:32:15' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:36' device='0' group_id='0' size='1262080'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.437000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/MT_USBCamera_SDK_Stdcall.dll' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.210'>
+    <System_Metadata mod_time='2008-12-31T08:54:06' user_id='0' creation_time='2009-10-07T11:02:06' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:36' device='0' group_id='0' size='1262080'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.468000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/OceanOptics.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.211'>
+    <System_Metadata mod_time='2009-10-27T14:01:39' user_id='0' creation_time='2009-09-25T15:34:40' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:36' device='0' group_id='0' size='2858'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Module contains the functions and classes for using the Ocean Optics USB 
+Spectrometers"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.499000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/OceanOptics.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.212'>
+    <System_Metadata mod_time='2010-03-30T15:33:04' user_id='0' creation_time='2009-10-19T15:59:26' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:36' device='0' group_id='0' size='2211'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.515000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.213'>
+    <System_Metadata mod_time='2009-09-14T11:29:19' user_id='0' creation_time='2009-09-14T11:29:19' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:46' device='0' group_id='0' size='26'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.546000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/BackEnds/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.11.214'>
+    <System_Metadata mod_time='2010-03-30T15:33:04' user_id='0' creation_time='2009-10-05T17:17:33' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:07:28' device='0' group_id='0' size='176'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.562000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/ArbDB.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.21'>
+    <System_Metadata mod_time='2010-07-21T16:57:46' user_id='0' creation_time='2010-04-20T10:46:29' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T17:01:09' device='0' group_id='0' size='34123'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Arbitary Database are tools for working with a XML database of URLs """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.593000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/ArbDB.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.22'>
+    <System_Metadata mod_time='2010-07-21T16:53:18' user_id='0' creation_time='2010-06-07T18:06:46' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:54:29' device='0' group_id='0' size='25818'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.624000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Instruments.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.23'>
+    <System_Metadata mod_time='2010-07-21T15:14:01' user_id='0' creation_time='2009-10-27T14:35:28' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:44:00' device='0' group_id='0' size='10900'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Data types and functions to handle instrument xml data sheets """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.640000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Instruments.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.24'>
+    <System_Metadata mod_time='2010-05-06T10:25:25' user_id='0' creation_time='2009-10-30T13:39:20' number_links='0' ino='0' mode='33206' acess_time='2010-07-14T06:20:58' device='0' group_id='0' size='8907'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.671000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Logs.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.25'>
+    <System_Metadata mod_time='2010-07-21T15:31:05' user_id='0' creation_time='2009-09-17T15:17:01' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:44:00' device='0' group_id='0' size='14507'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Logs is a module to handle general Log data types """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.702000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Logs.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.26'>
+    <System_Metadata mod_time='2010-07-21T15:31:59' user_id='0' creation_time='2009-10-15T17:28:37' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:53' device='0' group_id='0' size='15096'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.734000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Measurements.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.27'>
+    <System_Metadata mod_time='2010-07-21T15:13:29' user_id='0' creation_time='2009-09-22T14:21:06' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='11347'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Measurements is a module that defines functions and classes to hold and 
+manipulate measured data."""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.765000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Measurements.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.28'>
+    <System_Metadata mod_time='2010-06-07T18:07:00' user_id='0' creation_time='2010-04-15T13:02:21' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:08:32' device='0' group_id='0' size='10163'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.796000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Settings.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.29'>
+    <System_Metadata mod_time='2010-07-21T15:13:10' user_id='0' creation_time='2010-04-16T10:42:01' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:44:00' device='0' group_id='0' size='1888'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.827000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/Settings.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.210'>
+    <System_Metadata mod_time='2010-06-08T11:13:20' user_id='0' creation_time='2010-06-08T11:13:20' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:44' device='0' group_id='0' size='948'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.859000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/States.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.211'>
+    <System_Metadata mod_time='2010-07-21T15:13:45' user_id='0' creation_time='2009-09-22T14:56:54' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:44:00' device='0' group_id='0' size='8997'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" The module States defines classes and functions for manipulating State data 
+from instruments and experiments """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:46.890000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/States.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.212'>
+    <System_Metadata mod_time='2010-06-08T13:29:30' user_id='0' creation_time='2010-04-15T14:20:23' number_links='0' ino='0' mode='33206' acess_time='2010-07-14T06:18:09' device='0' group_id='0' size='8023'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.921000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.213'>
+    <System_Metadata mod_time='2009-09-14T11:29:41' user_id='0' creation_time='2009-09-14T11:29:41' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T13:07:56' device='0' group_id='0' size='26'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.968000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/DataHandlers/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.12.214'>
+    <System_Metadata mod_time='2010-03-30T15:33:10' user_id='0' creation_time='2009-10-05T17:31:33' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:53' device='0' group_id='0' size='180'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:46.999000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/ArbDBRightControlPanel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.21'>
+    <System_Metadata mod_time='2010-07-21T15:16:47' user_id='0' creation_time='2010-07-20T11:45:27' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='2287'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.031000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/BasicInterfaceFrame.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.22'>
+    <System_Metadata mod_time='2010-07-21T15:37:55' user_id='0' creation_time='2010-05-11T12:23:06' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:52' device='0' group_id='0' size='27673'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Advanced wx.Frame with standard containers for interface and control this
+is meant as a template for GUI design"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.062000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/BasicInterfaceFrame.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.23'>
+    <System_Metadata mod_time='2010-06-08T17:12:34' user_id='0' creation_time='2010-06-08T17:12:34' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:14' device='0' group_id='0' size='24474'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.124000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/GeneralInterfaceFrame.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.24'>
+    <System_Metadata mod_time='2010-05-07T10:28:14' user_id='0' creation_time='2010-05-06T23:53:09' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='11054'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Advanced wx.Frame with standard containers for interface and control this
+is meant as a template for GUI design"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.171000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/GeneralInterfaceFrame.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.25'>
+    <System_Metadata mod_time='2010-06-08T10:37:09' user_id='0' creation_time='2010-06-08T10:37:08' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:14' device='0' group_id='0' size='11010'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.202000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/IEPanel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.26'>
+    <System_Metadata mod_time='2010-06-08T10:21:00' user_id='0' creation_time='2010-04-13T16:19:45' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='9585'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>        """ After a file is navigated to updates the location bar"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.234000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/IEPanel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.27'>
+    <System_Metadata mod_time='2010-06-08T10:21:11' user_id='0' creation_time='2010-05-07T09:22:28' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:52' device='0' group_id='0' size='10583'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.281000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/OceanOpticsFrame.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.28'>
+    <System_Metadata mod_time='2009-10-22T16:10:30' user_id='0' creation_time='2009-10-19T14:02:22' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='8967'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.327000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/QE65000Panel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.29'>
+    <System_Metadata mod_time='2010-04-06T15:24:31' user_id='0' creation_time='2009-10-22T15:27:37' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='9017'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Base Panel For Simple QE65000 Ocean Optics Spectrometer Interface"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.359000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/QE65000Panel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.210'>
+    <System_Metadata mod_time='2010-04-06T15:54:47' user_id='0' creation_time='2009-10-22T15:33:07' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:14' device='0' group_id='0' size='9038'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.406000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/ShellPanel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.211'>
+    <System_Metadata mod_time='2010-05-09T18:46:24' user_id='0' creation_time='2010-04-20T11:20:12' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='20463'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>"""This is a shell, modified from the shell in Boa Constructor"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.452000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/ShellPanel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.212'>
+    <System_Metadata mod_time='2010-05-11T12:45:17' user_id='0' creation_time='2010-05-07T09:22:28' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:52' device='0' group_id='0' size='24425'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.484000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/SimpleArbDBLowerInterfacePanel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.213'>
+    <System_Metadata mod_time='2010-07-21T15:29:13' user_id='0' creation_time='2010-07-21T14:32:56' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='18063'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" An interface panel for simple editing of logs, plugs into lower interface container"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.531000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/SimpleArbDBLowerInterfacePanel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.214'>
+    <System_Metadata mod_time='2010-07-21T15:32:10' user_id='0' creation_time='2010-07-21T15:27:18' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:55' device='0' group_id='0' size='15914'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.577000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/SimpleLogLowerInterfacePanel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.215'>
+    <System_Metadata mod_time='2010-05-13T17:14:56' user_id='0' creation_time='2010-05-11T16:50:23' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='16742'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" An interface panel for simple editing of logs, plugs into lower interface container"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.624000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/SimpleLogLowerInterfacePanel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.216'>
+    <System_Metadata mod_time='2010-05-13T17:15:05' user_id='0' creation_time='2010-05-13T14:10:00' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:53' device='0' group_id='0' size='15101'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.671000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/USB2000Panel.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.217'>
+    <System_Metadata mod_time='2010-04-06T14:05:37' user_id='0' creation_time='2009-10-19T13:47:25' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:43:55' device='0' group_id='0' size='8984'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Base Panel For Simple USB2000 Ocean Optics Spectrometer Interface"""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.718000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/USB2000Panel.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.218'>
+    <System_Metadata mod_time='2010-04-06T15:54:45' user_id='0' creation_time='2009-10-19T14:06:53' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:15' device='0' group_id='0' size='8974'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.765000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.219'>
+    <System_Metadata mod_time='2009-09-14T11:29:53' user_id='0' creation_time='2009-09-14T11:29:53' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T13:07:52' device='0' group_id='0' size='26'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.812000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/FrontEnds/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.13.220'>
+    <System_Metadata mod_time='2010-05-06T15:35:25' user_id='0' creation_time='2010-05-06T15:35:25' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:52' device='0' group_id='0' size='177'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.859000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/Alias.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.21'>
+    <System_Metadata mod_time='2010-07-21T16:51:54' user_id='0' creation_time='2009-09-14T13:28:30' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:52:58' device='0' group_id='0' size='3559'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" Module that defines functions for handling alias definitions in Clases """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:47.906000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/Alias.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.22'>
+    <System_Metadata mod_time='2010-07-21T16:52:58' user_id='0' creation_time='2009-09-14T14:43:05' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='3317'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:47.952000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/GetMetadata.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.23'>
+    <System_Metadata mod_time='2010-07-13T10:26:03' user_id='0' creation_time='2009-09-10T14:22:21' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:12:53' device='0' group_id='0' size='8711'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" This module gets metadata on files from the filesytem (Windows only) or
+the file itself."""
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:48.015000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/GetMetadata.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.24'>
+    <System_Metadata mod_time='2010-07-21T15:12:52' user_id='0' creation_time='2010-07-21T15:12:52' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:54:29' device='0' group_id='0' size='6849'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.062000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/Names.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.25'>
+    <System_Metadata mod_time='2009-11-06T16:32:29' user_id='0' creation_time='2009-09-17T15:48:50' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:05:46' device='0' group_id='0' size='4182'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Python_Docstring>""" The module names contains the functions for automatically 
+generating file names """
+</Python_Docstring>
+  </File>
+  <File Date='2010-07-21T22:56:48.109000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/names.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.26'>
+    <System_Metadata mod_time='2010-04-05T17:33:59' user_id='0' creation_time='2009-11-06T17:21:46' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='3881'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.156000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/__init__.py' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.27'>
+    <System_Metadata mod_time='2009-09-14T11:30:03' user_id='0' creation_time='2009-09-14T11:30:03' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T15:11:18' device='0' group_id='0' size='26'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.218000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Code/Misc/__init__.pyc' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.11.14.28'>
+    <System_Metadata mod_time='2010-03-30T15:33:25' user_id='0' creation_time='2009-10-14T15:42:13' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:59:52' device='0' group_id='0' size='172'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.265000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.12.11'>
+    <System_Metadata mod_time='2010-05-13T12:19:12' user_id='0' creation_time='2009-02-05T21:44:40' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.312000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.12.12'>
+    <System_Metadata mod_time='2010-04-15T13:32:02' user_id='0' creation_time='2009-02-05T21:44:40' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:48' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.374000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Reports' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.12.13'>
+    <System_Metadata mod_time='2009-09-22T15:06:00' user_id='0' creation_time='2009-09-22T15:06:00' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:49' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.421000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.12.14'>
+    <System_Metadata mod_time='2010-06-08T17:04:32' user_id='0' creation_time='2009-02-05T21:44:41' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:49' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.484000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs/Change_Log.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.11.21'>
+    <System_Metadata mod_time='2010-06-07T15:19:07' user_id='0' creation_time='2009-10-15T17:30:36' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T14:01:53' device='0' group_id='0' size='2957'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.546000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs/DEFAULT_LOG_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.11.22'>
+    <System_Metadata mod_time='2009-10-27T11:39:17' user_id='0' creation_time='2009-09-21T08:57:46' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:14:38' device='0' group_id='0' size='880'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.593000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs/DEFAULT_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.11.23'>
+    <System_Metadata mod_time='2009-10-19T08:52:50' user_id='0' creation_time='2009-10-19T08:52:50' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='1517'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.640000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs/New_Log.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.11.24'>
+    <System_Metadata mod_time='2010-07-21T14:58:56' user_id='0' creation_time='2009-09-21T10:57:12' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:14:38' device='0' group_id='0' size='297'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.702000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Logs/pyMeasure_Change_Log.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.11.25'>
+    <System_Metadata mod_time='2010-07-12T14:33:30' user_id='0' creation_time='2010-05-13T12:19:12' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T14:55:47' device='0' group_id='0' size='1894'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.765000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.21'>
+    <System_Metadata mod_time='2010-04-15T09:50:17' user_id='0' creation_time='2010-04-15T09:50:17' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='412'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.812000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.22'>
+    <System_Metadata mod_time='2010-04-15T10:23:06' user_id='0' creation_time='2010-04-15T10:23:06' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='412'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.874000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_3.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.23'>
+    <System_Metadata mod_time='2010-04-15T10:24:02' user_id='0' creation_time='2010-04-15T10:24:02' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='454'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.937000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_4.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.24'>
+    <System_Metadata mod_time='2010-04-15T13:14:09' user_id='0' creation_time='2010-04-15T13:14:09' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='47058'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:48.984000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_5.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.25'>
+    <System_Metadata mod_time='2010-04-15T13:28:21' user_id='0' creation_time='2010-04-15T13:28:20' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='47058'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.046000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_6.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.26'>
+    <System_Metadata mod_time='2010-04-15T13:28:57' user_id='0' creation_time='2010-04-15T13:28:57' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:32' device='0' group_id='0' size='62857'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.109000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/Data_Table_041510_7.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.27'>
+    <System_Metadata mod_time='2010-04-15T13:32:02' user_id='0' creation_time='2010-04-15T13:32:02' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:33' device='0' group_id='0' size='62867'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.171000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/Measurements/DEFAULT_MEASUREMENT_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.12.28'>
+    <System_Metadata mod_time='2010-04-15T10:21:21' user_id='0' creation_time='2010-04-15T09:43:25' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:33' device='0' group_id='0' size='1751'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.406000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/DEFAULT_STATE_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.21'>
+    <System_Metadata mod_time='2010-04-15T15:53:54' user_id='0' creation_time='2009-11-06T17:15:02' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='1866'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.468000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.22'>
+    <System_Metadata mod_time='2010-04-15T11:50:14' user_id='0' creation_time='2010-04-15T11:50:14' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.531000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.23'>
+    <System_Metadata mod_time='2010-04-15T11:53:29' user_id='0' creation_time='2010-04-15T11:53:29' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.593000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_3.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.24'>
+    <System_Metadata mod_time='2010-04-15T14:23:34' user_id='0' creation_time='2010-04-15T14:23:34' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='426'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.671000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_4.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.25'>
+    <System_Metadata mod_time='2010-04-15T14:51:26' user_id='0' creation_time='2010-04-15T14:51:26' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:48' device='0' group_id='0' size='832'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.734000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_5.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.26'>
+    <System_Metadata mod_time='2010-04-15T15:49:28' user_id='0' creation_time='2010-04-15T15:49:28' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:48' device='0' group_id='0' size='998'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.796000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_6.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.27'>
+    <System_Metadata mod_time='2010-04-15T15:56:35' user_id='0' creation_time='2010-04-15T15:56:35' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:49' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.874000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_041510_7.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.28'>
+    <System_Metadata mod_time='2010-04-15T17:27:43' user_id='0' creation_time='2010-04-15T17:27:43' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:49' device='0' group_id='0' size='828'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.937000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.29'>
+    <System_Metadata mod_time='2010-06-07T13:52:53' user_id='0' creation_time='2010-06-07T13:52:53' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:50' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:49.999000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_10.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.210'>
+    <System_Metadata mod_time='2010-06-07T15:27:48' user_id='0' creation_time='2010-06-07T15:27:48' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:50' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.077000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_11.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.211'>
+    <System_Metadata mod_time='2010-06-07T15:28:23' user_id='0' creation_time='2010-06-07T15:28:23' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.156000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_12.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.212'>
+    <System_Metadata mod_time='2010-06-07T15:28:56' user_id='0' creation_time='2010-06-07T15:28:56' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.234000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_13.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.213'>
+    <System_Metadata mod_time='2010-06-07T15:33:40' user_id='0' creation_time='2010-06-07T15:33:40' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.312000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.214'>
+    <System_Metadata mod_time='2010-06-07T14:08:25' user_id='0' creation_time='2010-06-07T14:08:25' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.390000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_3.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.215'>
+    <System_Metadata mod_time='2010-06-07T15:06:43' user_id='0' creation_time='2010-06-07T15:06:43' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.452000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_4.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.216'>
+    <System_Metadata mod_time='2010-06-07T15:08:04' user_id='0' creation_time='2010-06-07T15:08:04' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.531000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_5.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.217'>
+    <System_Metadata mod_time='2010-06-07T15:10:26' user_id='0' creation_time='2010-06-07T15:10:26' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_6.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.218'>
+    <System_Metadata mod_time='2010-06-07T15:12:12' user_id='0' creation_time='2010-06-07T15:12:12' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.687000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_7.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.219'>
+    <System_Metadata mod_time='2010-06-07T15:13:21' user_id='0' creation_time='2010-06-07T15:13:21' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.765000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_8.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.220'>
+    <System_Metadata mod_time='2010-06-07T15:22:39' user_id='0' creation_time='2010-06-07T15:22:39' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.843000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060710_9.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.221'>
+    <System_Metadata mod_time='2010-06-07T15:26:53' user_id='0' creation_time='2010-06-07T15:26:53' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.906000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.222'>
+    <System_Metadata mod_time='2010-06-08T13:25:41' user_id='0' creation_time='2010-06-08T13:25:41' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:50.999000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.223'>
+    <System_Metadata mod_time='2010-06-08T13:57:22' user_id='0' creation_time='2010-06-08T13:57:22' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:51' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.077000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_3.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.224'>
+    <System_Metadata mod_time='2010-06-08T15:51:22' user_id='0' creation_time='2010-06-08T15:51:22' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.156000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_4.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.225'>
+    <System_Metadata mod_time='2010-06-08T15:58:08' user_id='0' creation_time='2010-06-08T15:58:08' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.234000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_5.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.226'>
+    <System_Metadata mod_time='2010-06-08T15:59:02' user_id='0' creation_time='2010-06-08T15:59:02' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.343000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_6.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.227'>
+    <System_Metadata mod_time='2010-06-08T16:45:07' user_id='0' creation_time='2010-06-08T16:45:07' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.437000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_7.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.228'>
+    <System_Metadata mod_time='2010-06-08T16:57:36' user_id='0' creation_time='2010-06-08T16:57:36' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.515000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_8.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.229'>
+    <System_Metadata mod_time='2010-06-08T16:58:15' user_id='0' creation_time='2010-06-08T16:58:15' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_060810_9.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.230'>
+    <System_Metadata mod_time='2010-06-08T17:04:32' user_id='0' creation_time='2010-06-08T17:04:32' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='368'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.687000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_110609_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.231'>
+    <System_Metadata mod_time='2009-11-06T17:55:12' user_id='0' creation_time='2009-11-06T17:55:12' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='236'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.781000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_110609_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.232'>
+    <System_Metadata mod_time='2009-11-06T17:57:46' user_id='0' creation_time='2009-11-06T17:57:46' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:52' device='0' group_id='0' size='334'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.874000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/Instrument_State_111209_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.233'>
+    <System_Metadata mod_time='2009-11-12T11:12:03' user_id='0' creation_time='2009-11-12T11:12:03' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='334'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:51.952000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.234'>
+    <System_Metadata mod_time='2010-06-08T13:25:41' user_id='0' creation_time='2010-06-08T13:25:41' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.046000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_10.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.235'>
+    <System_Metadata mod_time='2010-06-08T16:47:07' user_id='0' creation_time='2010-06-08T16:47:07' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.140000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_11.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.236'>
+    <System_Metadata mod_time='2010-06-08T16:58:08' user_id='0' creation_time='2010-06-08T16:58:08' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.234000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.237'>
+    <System_Metadata mod_time='2010-06-08T13:57:22' user_id='0' creation_time='2010-06-08T13:57:22' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.327000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_3.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.238'>
+    <System_Metadata mod_time='2010-06-08T15:51:22' user_id='0' creation_time='2010-06-08T15:51:22' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.421000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_4.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.239'>
+    <System_Metadata mod_time='2010-06-08T15:51:22' user_id='0' creation_time='2010-06-08T15:51:22' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.515000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_5.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.240'>
+    <System_Metadata mod_time='2010-06-08T15:58:08' user_id='0' creation_time='2010-06-08T15:58:08' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_6.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.241'>
+    <System_Metadata mod_time='2010-06-08T15:58:08' user_id='0' creation_time='2010-06-08T15:58:08' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.702000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_7.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.242'>
+    <System_Metadata mod_time='2010-06-08T15:59:02' user_id='0' creation_time='2010-06-08T15:59:02' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.796000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_8.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.243'>
+    <System_Metadata mod_time='2010-06-08T15:59:02' user_id='0' creation_time='2010-06-08T15:59:02' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.890000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_060810_9.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.244'>
+    <System_Metadata mod_time='2010-06-08T16:45:11' user_id='0' creation_time='2010-06-08T16:45:11' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:52.984000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Data/States/TEST_State_110609_1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.12.14.245'>
+    <System_Metadata mod_time='2009-11-06T17:33:59' user_id='0' creation_time='2009-11-06T17:33:59' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:07:02' device='0' group_id='0' size='198'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.077000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.13.11'>
+    <System_Metadata mod_time='2010-04-20T16:28:30' user_id='0' creation_time='2009-02-05T21:44:39' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.281000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/cm110.pdf' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.21'>
+    <System_Metadata mod_time='2009-10-30T16:51:06' user_id='0' creation_time='2009-10-30T16:51:06' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:30' device='0' group_id='0' size='104219'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.374000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/cm110_manual.pdf' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.22'>
+    <System_Metadata mod_time='2009-10-30T17:19:31' user_id='0' creation_time='2009-10-30T17:13:30' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:30' device='0' group_id='0' size='1782622'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.468000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Good Programs.odt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.23'>
+    <System_Metadata mod_time='2009-10-05T09:38:10' user_id='0' creation_time='2009-10-05T09:30:10' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:40' device='0' group_id='0' size='11136'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.562000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Image of PIE and Ruler.odg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.24'>
+    <System_Metadata mod_time='2010-04-05T09:49:57' user_id='0' creation_time='2010-04-01T16:26:51' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='9662'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.656000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Instructions on general frame design.odt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.25'>
+    <System_Metadata mod_time='2010-04-05T09:50:13' user_id='0' creation_time='2010-04-20T11:49:11' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='68475'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.749000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Module Standard.odt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.26'>
+    <System_Metadata mod_time='2009-09-22T15:51:18' user_id='0' creation_time='2009-09-22T15:17:19' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='26756'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.843000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Proposed Files in pyMeasure.html' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.27'>
+    <System_Metadata mod_time='2010-04-12T11:57:51' user_id='0' creation_time='2010-04-06T11:48:41' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='10791'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:53.937000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Proposed Files in pyMeasure.odt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.28'>
+    <System_Metadata mod_time='2009-11-20T13:03:07' user_id='0' creation_time='2009-11-12T17:25:04' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='16595'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.046000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/pyMeasure Structure outline 2.html' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.29'>
+    <System_Metadata mod_time='2010-04-06T11:38:21' user_id='0' creation_time='2010-04-06T11:38:14' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='5247'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.140000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/pyMeasure Structure outline.html' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.210'>
+    <System_Metadata mod_time='2010-04-06T11:42:21' user_id='0' creation_time='2010-04-06T11:42:19' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='4744'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.249000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/pyMeasure Structure outline.odt' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.211'>
+    <System_Metadata mod_time='2009-10-06T11:34:20' user_id='0' creation_time='2009-10-06T11:26:10' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='19097'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.343000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/structure analogy.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.212'>
+    <System_Metadata mod_time='2009-09-30T17:15:00' user_id='0' creation_time='2009-09-30T17:14:59' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='215471'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <dpi>(150, 150)</dpi>
+      <Software>Microsoft Office</Software>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.452000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Documentation/Raw Documentation/Structure of pyMeasure.odg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.13.11.213'>
+    <System_Metadata mod_time='2009-09-25T13:21:13' user_id='0' creation_time='2009-02-05T21:44:39' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:41' device='0' group_id='0' size='14967'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.562000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/CM110_NSOM_Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15.11'>
+    <System_Metadata mod_time='2009-10-30T17:25:48' user_id='0' creation_time='2009-10-30T17:24:23' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:55' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.656000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/LC500_NSOM_Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15.12'>
+    <System_Metadata mod_time='2009-11-12T11:31:59' user_id='0' creation_time='2009-11-12T11:31:22' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:55' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.765000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS810_Lockin2_Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15.13'>
+    <System_Metadata mod_time='2009-10-30T21:12:40' user_id='0' creation_time='2009-10-23T17:34:13' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:56' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.859000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS830_Lockin1_Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15.14'>
+    <System_Metadata mod_time='2009-11-09T11:18:00' user_id='0' creation_time='2009-10-22T16:46:20' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T16:56:56' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:54.968000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS960_PID1_Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.15.15'>
+    <System_Metadata mod_time='2009-11-12T16:14:56' user_id='0' creation_time='2009-11-12T16:06:12' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:49' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.062000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/CM110_NSOM.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.26'>
+    <System_Metadata mod_time='2009-11-12T15:56:07' user_id='0' creation_time='2009-10-30T16:09:56' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:18' device='0' group_id='0' size='5468'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.171000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/DEFAULT_INSTRUMENT_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.27'>
+    <System_Metadata mod_time='2010-05-11T16:26:32' user_id='0' creation_time='2009-10-22T16:47:45' number_links='0' ino='0' mode='33206' acess_time='2010-07-14T06:20:39' device='0' group_id='0' size='3369'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.281000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/LC500_NSOM.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.28'>
+    <System_Metadata mod_time='2009-11-12T11:44:53' user_id='0' creation_time='2009-11-12T11:22:04' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:18' device='0' group_id='0' size='3904'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.374000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS810_Lockin2.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.29'>
+    <System_Metadata mod_time='2009-10-30T21:14:51' user_id='0' creation_time='2009-10-26T15:47:38' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:18' device='0' group_id='0' size='12288'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.499000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS830_Lockin1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.210'>
+    <System_Metadata mod_time='2009-10-30T21:11:16' user_id='0' creation_time='2009-10-22T16:44:27' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:21' device='0' group_id='0' size='12029'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS960_PID1.xml' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.211'>
+    <System_Metadata mod_time='2009-11-12T17:02:12' user_id='0' creation_time='2009-11-12T16:08:00' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:47:19' device='0' group_id='0' size='12221'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.734000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/CM110_NSOM_Images/CM110Main.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.11.21'>
+    <System_Metadata mod_time='2009-10-30T17:23:47' user_id='0' creation_time='2009-10-30T17:24:59' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:20' device='0' group_id='0' size='6226'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif_version>(1, 0)</jfif_version>
+      <jfif>256</jfif>
+      <jfif_unit>1</jfif_unit>
+      <jfif_density>(150, 150)</jfif_density>
+      <dpi>(150, 150)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.843000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/CM110_NSOM_Images/Thumbs.db' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.11.22'>
+    <System_Metadata mod_time='2009-11-09T11:17:59' user_id='0' creation_time='2009-10-30T17:25:48' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:30' device='0' group_id='0' size='8704'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:55.952000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/LC500_NSOM_Images/LC500Main.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.12.21'>
+    <System_Metadata mod_time='2009-11-12T11:30:00' user_id='0' creation_time='2009-11-12T11:31:59' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:20' device='0' group_id='0' size='6283'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif_version>(1, 1)</jfif_version>
+      <jfif>257</jfif>
+      <jfif_unit>1</jfif_unit>
+      <jfif_density>(72, 72)</jfif_density>
+      <dpi>(72, 72)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.109000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS810_Lockin2_Images/SR810Main.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.13.21'>
+    <System_Metadata mod_time='2009-10-23T17:33:38' user_id='0' creation_time='2009-10-23T17:34:58' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:19' device='0' group_id='0' size='336293'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.218000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS810_Lockin2_Images/SR810Main2.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.13.22'>
+    <System_Metadata mod_time='2009-10-30T21:12:41' user_id='0' creation_time='2009-10-30T21:12:40' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:20' device='0' group_id='0' size='12302'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif_version>(1, 1)</jfif_version>
+      <jfif>257</jfif>
+      <jfif_unit>1</jfif_unit>
+      <jfif_density>(150, 150)</jfif_density>
+      <dpi>(150, 150)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.327000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS810_Lockin2_Images/Thumbs.db' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.13.23'>
+    <System_Metadata mod_time='2009-11-09T11:18:00' user_id='0' creation_time='2009-10-26T16:07:01' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:20' device='0' group_id='0' size='10752'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.484000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS830_Lockin1_Images/SR830main.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.14.21'>
+    <System_Metadata mod_time='2009-10-26T16:19:27' user_id='0' creation_time='2009-10-22T16:47:16' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:19' device='0' group_id='0' size='391533'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS830_Lockin1_Images/SR830main2.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.14.22'>
+    <System_Metadata mod_time='2009-10-30T21:08:51' user_id='0' creation_time='2009-10-30T21:08:50' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:19' device='0' group_id='0' size='14012'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif_version>(1, 1)</jfif_version>
+      <jfif>257</jfif>
+      <jfif_unit>1</jfif_unit>
+      <jfif_density>(150, 150)</jfif_density>
+      <dpi>(150, 150)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.718000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS830_Lockin1_Images/Thumbs.db' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.14.23'>
+    <System_Metadata mod_time='2009-11-09T11:18:00' user_id='0' creation_time='2009-11-09T11:18:00' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:19' device='0' group_id='0' size='5632'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.843000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS960_PID1_Images/SIM960main.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.15.21'>
+    <System_Metadata mod_time='2009-11-12T16:07:20' user_id='0' creation_time='2009-11-12T16:07:32' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:09' device='0' group_id='0' size='7485'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif>258</jfif>
+      <jfif_unit>0</jfif_unit>
+      <adobe>100</adobe>
+      <jfif_version>(1, 2)</jfif_version>
+      <adobe_transform>100</adobe_transform>
+      <jfif_density>(100, 100)</jfif_density>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:56.968000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Instruments/SRS960_PID1_Images/Thumbs.db' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.15.15.22'>
+    <System_Metadata mod_time='2009-11-12T16:14:58' user_id='0' creation_time='2009-11-12T16:14:56' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:06:09' device='0' group_id='0' size='7168'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.077000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images' Host='815as1.bw.nist.gov' Type='Directory' Id='132.163.53.152.11.11.11.11.11.11.16.11'>
+    <System_Metadata mod_time='2010-05-11T17:33:14' user_id='0' creation_time='2009-10-19T17:17:21' number_links='0' ino='0' mode='16895' acess_time='2010-07-21T17:01:50' device='0' group_id='0' size='0'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.187000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/DEFAULT_STYLE.xsl' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.22'>
+    <System_Metadata mod_time='2009-10-19T08:52:50' user_id='0' creation_time='2010-04-15T14:01:25' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:47' device='0' group_id='0' size='1517'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.374000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Component.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.21'>
+    <System_Metadata mod_time='2010-05-10T17:26:40' user_id='0' creation_time='2010-04-14T17:09:09' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:55' device='0' group_id='0' size='505'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <dpi>(72, 72)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.484000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Designer.bmp' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.22'>
+    <System_Metadata mod_time='2010-04-01T09:21:47' user_id='0' creation_time='2010-04-01T09:21:47' number_links='0' ino='0' mode='33206' acess_time='2010-06-21T08:52:24' device='0' group_id='0' size='4150'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <compression>0</compression>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.609000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Display.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.23'>
+    <System_Metadata mod_time='2010-05-11T13:30:31' user_id='0' creation_time='2010-05-11T13:30:31' number_links='0' ino='0' mode='33206' acess_time='2010-06-21T08:52:23' device='0' group_id='0' size='340'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <Comment>Created with GIMP</Comment>
+      <dpi>(72, 72)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.718000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Inspector.bmp' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.24'>
+    <System_Metadata mod_time='2010-04-01T09:25:19' user_id='0' creation_time='2010-04-01T09:25:19' number_links='0' ino='0' mode='33206' acess_time='2010-06-21T08:52:22' device='0' group_id='0' size='4150'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <compression>0</compression>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:57.843000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Next.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.25'>
+    <System_Metadata mod_time='2002-03-11T22:30:46' user_id='0' creation_time='2010-05-11T17:33:00' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:55' device='0' group_id='0' size='226'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata/>
+  </File>
+  <File Date='2010-07-21T22:56:57.968000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/OceanOpticsLogo.bmp' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.26'>
+    <System_Metadata mod_time='2009-10-21T17:19:37' user_id='0' creation_time='2009-10-19T17:19:13' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:47' device='0' group_id='0' size='6966'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <compression>0</compression>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:58.077000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/OceanOpticsLogo.jpg' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.27'>
+    <System_Metadata mod_time='2009-10-21T14:05:32' user_id='0' creation_time='2009-10-19T17:17:31' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:47' device='0' group_id='0' size='1064'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <jfif_version>(1, 1)</jfif_version>
+      <jfif>257</jfif>
+      <jfif_unit>0</jfif_unit>
+      <jfif_density>(1, 1)</jfif_density>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:58.202000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Previous.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.28'>
+    <System_Metadata mod_time='2002-03-11T22:31:18' user_id='0' creation_time='2010-05-11T17:33:14' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:55' device='0' group_id='0' size='220'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata/>
+  </File>
+  <File Date='2010-07-21T22:56:58.327000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/pyMeasure1.bmp' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.29'>
+    <System_Metadata mod_time='2010-04-09T10:57:53' user_id='0' creation_time='2010-04-09T10:57:53' number_links='0' ino='0' mode='33206' acess_time='2010-06-21T08:52:20' device='0' group_id='0' size='1078'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <compression>0</compression>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:58.437000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Run.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.210'>
+    <System_Metadata mod_time='2002-03-11T21:24:52' user_id='0' creation_time='2009-10-21T13:48:27' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:58' device='0' group_id='0' size='189'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata/>
+  </File>
+  <File Date='2010-07-21T22:56:58.562000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/sage_logo_v3_s_icon.ico' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.211'>
+    <System_Metadata mod_time='2010-05-06T17:10:38' user_id='0' creation_time='2010-05-06T17:10:38' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:58' device='0' group_id='0' size='20862'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:58.687000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/sage_logo_v3_s_icon.png' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.212'>
+    <System_Metadata mod_time='2010-04-14T17:12:57' user_id='0' creation_time='2010-04-14T17:13:23' number_links='0' ino='0' mode='33206' acess_time='2010-07-21T16:53:55' device='0' group_id='0' size='4079'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+    <Image_Metadata>
+      <dpi>(90, 90)</dpi>
+    </Image_Metadata>
+  </File>
+  <File Date='2010-07-21T22:56:58.827000' URL='file:C:\Users\sandersa\Desktop\My Documents\Share\pyMeasure/Settings/Images/Thumbs.db' Host='815as1.bw.nist.gov' Type='Ordinary' Id='132.163.53.152.11.11.11.11.11.11.16.11.213'>
+    <System_Metadata mod_time='2010-05-11T17:41:03' user_id='0' creation_time='2009-10-19T17:19:50' number_links='0' ino='0' mode='33206' acess_time='2010-06-12T22:05:58' device='0' group_id='0' size='30208'/>
+    <File_Metadata>
+      <category>None</category>
+      <author>None</author>
+      <title>None</title>
+      <comments>None</comments>
+      <keywords>None</keywords>
+      <subject>None</subject>
+    </File_Metadata>
+  </File>
+</File_Registry>

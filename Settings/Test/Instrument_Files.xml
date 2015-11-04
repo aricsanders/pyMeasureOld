@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="FR_STYLE.xsl"?>
+<File_Registry>
+	<File Date="2012-01-04T17:48:35.109000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/CM110_NSOM_Images"/>
+	<File Date="2012-01-04T17:48:35.119000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM_Images"/>
+	<File Date="2012-01-04T17:48:35.119000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/LC500_NSOM_Images"/>
+	<File Date="2012-01-04T17:48:35.129000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/SRS810_Lockin2_Images"/>
+	<File Date="2012-01-04T17:48:35.129000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/SRS830_Lockin1_Images"/>
+	<File Date="2012-01-04T17:48:35.139000" Host="686AS1.campus.nist.gov" Id="fe80::196b:1cce:cd33:9f49.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Instruments/SRS960_PID1_Images"/>
+</File_Registry>

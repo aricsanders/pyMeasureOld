@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>fake data</Name>
+    <Notes>Justr a test</Notes>
+    <Resistance>-3.28019528114e+012</Resistance>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-15T15:58:37.046000</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-2.039409E-10' Index='0' Voltage='-000.1000'/>
+    <Tuple Current='-2.036716E-10' Index='1' Voltage='-000.0778'/>
+    <Tuple Current='-2.038386E-10' Index='2' Voltage='-000.0556'/>
+    <Tuple Current='-2.032437E-10' Index='3' Voltage='-000.0334'/>
+    <Tuple Current='-2.036674E-10' Index='4' Voltage='-000.0112'/>
+    <Tuple Current='-2.038802E-10' Index='5' Voltage='+000.0112'/>
+    <Tuple Current='-2.037776E-10' Index='6' Voltage='+000.0334'/>
+    <Tuple Current='-2.038470E-10' Index='7' Voltage='+000.0556'/>
+    <Tuple Current='-2.040186E-10' Index='8' Voltage='+000.0778'/>
+    <Tuple Current='-2.035884E-10' Index='9' Voltage='+000.1000'/>
+  </Data>
+</Data_Table>

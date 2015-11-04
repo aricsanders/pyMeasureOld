@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>23732 WB C023 DIE 1 II1-5 </Name>
+    <Notes>BEAM On probes touching same Pad but not each other</Notes>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-14T22:10:09.421000</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-1.533863E-03' Index='0' Voltage='-000.0100'/>
+    <Tuple Current='-1.380192E-03' Index='1' Voltage='-000.0078'/>
+    <Tuple Current='-1.226761E-03' Index='2' Voltage='-000.0056'/>
+    <Tuple Current='-1.073319E-03' Index='3' Voltage='-000.0034'/>
+    <Tuple Current='-9.187825E-04' Index='4' Voltage='-000.0012'/>
+    <Tuple Current='-7.355609E-04' Index='5' Voltage='+000.0012'/>
+    <Tuple Current='-5.807510E-04' Index='6' Voltage='+000.0034'/>
+    <Tuple Current='-4.271675E-04' Index='7' Voltage='+000.0056'/>
+    <Tuple Current='-2.732066E-04' Index='8' Voltage='+000.0078'/>
+    <Tuple Current='-8.978514E-05' Index='9' Voltage='+000.0100'/>
+  </Data>
+</Data_Table>

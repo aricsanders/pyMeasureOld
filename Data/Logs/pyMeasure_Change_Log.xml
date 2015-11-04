@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_LOG_STYLE.XSL"?>
+<Log>
+  <Entry Date='2009-10-15T23:34:04.432000' Id='1'>Added LabJack Instrument Functionality to pyMeasure.Code.BackEnds</Entry>
+  <Entry Date='2009-10-19T23:12:26.912000' Id='2'>Added Front Ends for Ocean Optics. The Frame and Panel,both of which still need work</Entry>
+  <Entry Date='2009-10-22T22:15:27.323000' Id='3'>Added QE65000 panel to frontends</Entry>
+  <Entry Date='2009-10-22T22:15:55.089000' Id='4'>Added Ability to change parameters in for spectrometers</Entry>
+  <Entry Date='2009-10-27T17:07:08.596000' Id='-1'>This is a change log for pyMeasure. It consists of entries with
+        a date attribute, an Id attribute that is a simple integer, and text 
+        describing the changes made to pyMeasure.</Entry>
+  <Entry Date='2009-10-30T04:32:18.319000' Id='5'>Added save, to_HTML, add_entry functionality to the DataHandler.Instruments.InstrumentSheet class</Entry>
+  <Entry Date='2009-11-12T23:51:50.680000' Id='6'>Added DataTable Class in pyMeasure.Code.DataHandlers.Measurements</Entry>
+  <Entry Date='2009-11-12T23:52:26.242000' Id='7'>Added Instrument Sheets for CM110 and SIM960</Entry>
+  <Entry Date='2010-04-15T23:35:05.964000' Id='8'>Fixed save_state and save_current_state methods.In addition, cleaned up the States classes some. Made it possible to call an istrument by an alias, ie. (Instruments.VisaInstrument("SRS810") works now.</Entry>
+  <Entry Date='2010-05-13T21:47:35.205000' Id='9'>Added a Log panel class to FrontEnds. Updated the Logs.Log class in DataHandlers.</Entry>
+  <Entry Date='2010-07-12T20:32:10.034000' Id='10'>Updated arbDB in original folder need to move new one to pyMeasure. Added the function add_tree to the FileRegister Class.</Entry>
+  <Entry Date='2010-09-01T15:28:48.109000' Id='11'>Added get_state(), set_state() functionality to LabjackInstrument class. The write command does not update current state for VisaInstruments. In addition, I added a new XML sheet for Keithley, SRS830 and updated the SIM960 sheet.</Entry>
+  <Entry Date='2011-01-21T23:56:08.328000' Id='12'>I added an End of The Day Dialog to Front Ends. I also updated some of the code. </Entry>
+  <Entry Date='2011-01-26T23:32:14.400000' Id='13'>I made a VisaDialog, that uses pyvisa to send string commands back and forth. I should of first made a desendant of wx.Panel and used the new frame panel command in BOA. In addition I fixed some of the issues with the wx.Toolbar for the basic interface. You can use SetToolBitmapSize to make it bigger. I also changed the Sage Icon to an S since the other one did not display well. </Entry>
+  <Entry Date='2011-04-29T21:44:24.170000' Id='14'>Added a new method to measurements. Also made it possible to read both text and xml SPA-data files. Saved a copy of the interface program as AdvancedInterfaceFrame in development folder.
+</Entry>
+  <Entry Date='2011-05-09T21:32:11.236000' Id='15'>Added new function to MatplotLibWxPanel
+
+
+
+
+</Entry>
+</Log>

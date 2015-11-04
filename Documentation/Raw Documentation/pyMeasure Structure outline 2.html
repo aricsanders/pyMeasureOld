@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title /><meta name="generator" content="StarOffice/OpenOffice.org XSLT (http://xml.openoffice.org/sx2ml)" /><meta name="created" content="2009-10-06T11:10:52" /><meta name="changed" content="2009-10-06T11:34:20" /><base href="." /><style type="text/css">
+	@page { size: 8.5inch 11inch; margin-top: 0.7874inch; margin-bottom: 0.7874inch; margin-left: 0.7874inch; margin-right: 0.7874inch }
+	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; }
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { padding:0; }
+	* { margin:0; }
+	*.Caption { font-family:'Times New Roman'; font-size:12pt; margin-top:0.0835in; margin-bottom:0.0835in; font-style:italic; }
+	*.Heading { font-family:Arial; font-size:14pt; margin-top:0.1665in; margin-bottom:0.0835in; }
+	*.Index { font-family:'Times New Roman'; font-size:12pt; }
+	*.List { font-family:'Times New Roman'; font-size:12pt; margin-top:0in; margin-bottom:0.0835in; }
+	*.P1 { font-family:'Times New Roman'; font-size:12pt; font-weight:bold; text-decoration:underline; }
+	*.P2 { font-family:'Times New Roman'; font-size:12pt; font-weight:normal; }
+	*.P3 { font-family:'Times New Roman'; font-size:12pt; padding:0.0291in; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-width:0.0351cm; border-bottom-style:solid; border-bottom-color:#000000; font-weight:normal; }
+	*.P4 { font-family:'Times New Roman'; font-size:12pt; font-weight:normal; }
+	*.P5 { font-family:'Times New Roman'; font-size:12pt; font-weight:normal; }
+	*.P6 { font-family:'Times New Roman'; font-size:12pt; font-weight:bold; }
+	*.P7 { font-family:'Times New Roman'; font-size:12pt; font-weight:bold; text-decoration:underline; }
+	*.Standard { font-family:'Times New Roman'; font-size:12pt; }
+	*.Textbody { font-family:'Times New Roman'; font-size:12pt; margin-top:0in; margin-bottom:0.0835in; }
+	*.NumberingSymbols { }
+	*.T1 { font-weight:bold; text-decoration:underline; }
+	*.T2 { vertical-align:sup; }
+	*.T3 { font-weight:bold; }
+	</style></head><body dir="ltr"><p class="Standard">We will try this one more time. </p><p class="Standard">The directory structure in pyMeasure is : </p><p class="P1">pyMeasure </p><p class="P2">Top folder with the main application, the file register and metadata for each file.  </p><p class="P1">Instruments </p><p class="P2">1<span class="T2">st</span> level folder that contains information regarding instruments in xml format</p><p class="P1">Experiments </p><p class="P2">1<span class="T2">st</span> level folder that contains information regarding experiments in xml format</p><p class="P1">Data </p><p class="P2">        <span class="T1">Measurements</span></p><p class="P2"><span class="T3">        </span><span class="T1">Logs</span></p><p class="P2">        <span class="T1">States</span></p><p class="P2"><span class="T3">        </span><span class="T1">Reports</span></p><p class="P1">Settings </p><p class="P2">Persistent Data for Use by the application (images, preferences etc.) </p><p class="P6">  </p><p class="P1">Code </p><p class="P2">        <span class="T1">FrontEnds</span>- Code that deals with user interfaces (uses wx)</p><p class="P2"><span class="T3">        </span><span class="T1">BackEnds</span>- Code that talks with instruments (uses visa)</p><p class="P2"><span class="T3">        </span><span class="T1">DataHandlers</span>- Code that stores and processes data (uses xml)</p><p class="P3"><span class="T3">        </span><span class="T1">Misc</span>- If it does not involve a user interface, talking with an instrument, or processing data</p><p class="P1"> </p><p class="P1">Code </p><p class="P2">I have tried to keep the code as modular and  useful as possible. I have intentionally separated out things that talk to instruments, user interfaces, and data manipulation so that the code could used elsewhere.</p><p class="P2">Where possible I have tried to use robust programming styles and tried to be consistent in my naming and documenting. </p><p class="P2"> </p><p class="P1">FrontEnds </p><p class="P2">I have used the Boa Constructor RAD platform for a lot of the user interfaces. It is a program that allows quicker design of GUI's using the wxWindows library. To be truly modular </p><ol style="margin-left:1.25cm;list-style-type:decimal; "><li class="P5" style="margin-left:0cm;"><p class="P5" style="margin-left:0.25cm;">Define Guts in a wx.panel </p></li><li class="P5" style="margin-left:0cm;"><p class="P5" style="margin-left:0.25cm;">Define Several Frames with tool bars,etc </p></li><li class="P5" style="margin-left:0cm;"><p class="P5" style="margin-left:0.25cm;">Using the  Custom classes in BOA Combine</p></li></ol><p class="P2">In addition, using the other packages in  pyMeasure I have tried to make the user interfaces a little more readable by only calling functions from elsewhere. </p><p class="P2"> </p></body></html>

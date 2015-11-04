@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-04-15T23:27:43.661000'>
+    <Tuple Set='ICPL' Value='0'/>
+    <Tuple Set='HARM' Value='1'/>
+    <Tuple Set='AUXV 3,' Value='0'/>
+    <Tuple Set='ILIN' Value='3'/>
+    <Tuple Set='AUXV 4,' Value='0'/>
+    <Tuple Set='AUXV 1,' Value='1.335'/>
+    <Tuple Set='SENS' Value='19'/>
+    <Tuple Set='SLVL' Value='0.004'/>
+    <Tuple Set='IGND' Value='1'/>
+    <Tuple Set='OFLT' Value='7'/>
+    <Tuple Set='ISRC' Value='0'/>
+    <Tuple Set='FREQ' Value='12'/>
+    <Tuple Set='RMOD' Value='1'/>
+    <Tuple Set='OFSL' Value='3'/>
+    <Tuple Set='AUXV 2,' Value='0'/>
+  </State>
+</Instrument_State>

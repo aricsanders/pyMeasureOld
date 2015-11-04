@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>23732 WB C023 DIE 1 I 2-8</Name>
+    <Notes>Probe is clearly touching the wire, but there is no current.</Notes>
+    <Resistance>1331491703.5</Resistance>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-15T17:50:43.406000</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-3.878551E-09' Index='0' Voltage='+000.0000'/>
+    <Tuple Current='-3.732208E-09' Index='1' Voltage='-000.0112'/>
+    <Tuple Current='-3.746086E-09' Index='2' Voltage='-000.0222'/>
+    <Tuple Current='-3.747631E-09' Index='3' Voltage='-000.0334'/>
+    <Tuple Current='-3.788219E-09' Index='4' Voltage='-000.0444'/>
+    <Tuple Current='-3.768078E-09' Index='5' Voltage='-000.0556'/>
+    <Tuple Current='-3.773408E-09' Index='6' Voltage='-000.0666'/>
+    <Tuple Current='-3.781035E-09' Index='7' Voltage='-000.0778'/>
+    <Tuple Current='-3.772535E-09' Index='8' Voltage='-000.0888'/>
+    <Tuple Current='-3.898667E-09' Index='9' Voltage='-000.1000'/>
+    <Tuple Current='-3.838918E-09' Index='10' Voltage='-000.1000'/>
+    <Tuple Current='-3.815030E-09' Index='11' Voltage='-000.0888'/>
+    <Tuple Current='-3.827203E-09' Index='12' Voltage='-000.0778'/>
+    <Tuple Current='-3.849876E-09' Index='13' Voltage='-000.0666'/>
+    <Tuple Current='-3.847468E-09' Index='14' Voltage='-000.0556'/>
+    <Tuple Current='-3.843166E-09' Index='15' Voltage='-000.0444'/>
+    <Tuple Current='-3.781676E-09' Index='16' Voltage='-000.0334'/>
+    <Tuple Current='-3.749914E-09' Index='17' Voltage='-000.0222'/>
+    <Tuple Current='-3.731464E-09' Index='18' Voltage='-000.0112'/>
+    <Tuple Current='-3.728917E-09' Index='19' Voltage='+000.0000'/>
+    <Tuple Current='-3.734092E-09' Index='20' Voltage='+000.0000'/>
+    <Tuple Current='-3.728221E-09' Index='21' Voltage='+000.0112'/>
+    <Tuple Current='-3.728096E-09' Index='22' Voltage='+000.0222'/>
+    <Tuple Current='-3.728396E-09' Index='23' Voltage='+000.0334'/>
+    <Tuple Current='-3.712753E-09' Index='24' Voltage='+000.0444'/>
+    <Tuple Current='-3.713988E-09' Index='25' Voltage='+000.0556'/>
+    <Tuple Current='-3.702489E-09' Index='26' Voltage='+000.0666'/>
+    <Tuple Current='-3.700444E-09' Index='27' Voltage='+000.0778'/>
+    <Tuple Current='-3.692177E-09' Index='28' Voltage='+000.0888'/>
+    <Tuple Current='-3.686238E-09' Index='29' Voltage='+000.1000'/>
+    <Tuple Current='-3.687819E-09' Index='30' Voltage='+000.1000'/>
+    <Tuple Current='-3.709016E-09' Index='31' Voltage='+000.0888'/>
+    <Tuple Current='-3.700039E-09' Index='32' Voltage='+000.0778'/>
+    <Tuple Current='-3.715226E-09' Index='33' Voltage='+000.0666'/>
+    <Tuple Current='-3.718342E-09' Index='34' Voltage='+000.0556'/>
+    <Tuple Current='-3.716755E-09' Index='35' Voltage='+000.0444'/>
+    <Tuple Current='-3.718681E-09' Index='36' Voltage='+000.0334'/>
+    <Tuple Current='-3.725876E-09' Index='37' Voltage='+000.0222'/>
+    <Tuple Current='-3.729146E-09' Index='38' Voltage='+000.0112'/>
+    <Tuple Current='-3.737266E-09' Index='39' Voltage='+000.0000'/>
+  </Data>
+</Data_Table>

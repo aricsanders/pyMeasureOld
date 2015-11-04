@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-08-31T00:01:59.509000'>
+    <Tuple Set='ICPL' Value='0'/>
+    <Tuple Set='HARM' Value='1'/>
+    <Tuple Set='AUXV 3,' Value='0'/>
+    <Tuple Set='ILIN' Value='3'/>
+    <Tuple Set='AUXV 4,' Value='0'/>
+    <Tuple Set='AUXV 1,' Value='0'/>
+    <Tuple Set='SENS' Value='11'/>
+    <Tuple Set='SLVL' Value='0.004'/>
+    <Tuple Set='IGND' Value='1'/>
+    <Tuple Set='OFLT' Value='7'/>
+    <Tuple Set='ISRC' Value='0'/>
+    <Tuple Set='FREQ' Value='12'/>
+    <Tuple Set='RMOD' Value='1'/>
+    <Tuple Set='OFSL' Value='3'/>
+    <Tuple Set='AUXV 2,' Value='0'/>
+  </State>
+  <State_Description>
+    <Instrument_Description>C:\Documents and Settings\sandersa\My Documents\Share\pyMeasure\Instruments\SRS810_Lockin2.xml</Instrument_Description>
+  </State_Description>
+</Instrument_State>

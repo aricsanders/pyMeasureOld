@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-04-15T20:22:11.603000'>
+    <Tuple Set='setScansToAverage' Value='1'/>
+    <Tuple Set='setIntegrationTime' Value='3000'/>
+    <Tuple Set='setBoxcarWidth' Value='0'/>
+  </State>
+</Instrument_State>

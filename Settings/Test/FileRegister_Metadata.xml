@@ -1,0 +1,995 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="METADATA_STYLE.xsl"?>
+<?xml-FileRegistry href="FileRegister.xml"?>
+<File_Registry>
+	
+	
+	<File Date="2012-01-04T06:17:20.541000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test/SRS830_Lockin1.xml">
+		<System_Metadata acess_time="2011-12-31T21:57:53" creation_time="2011-12-31T21:57:53" device="0" group_id="0" ino="0" mod_time="2010-12-06T11:07:54" mode="33206" number_links="0" size="12185" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:18:29.305000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test/DEFAULT_INSTRUMENT_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-31T23:11:38" creation_time="2011-12-31T23:11:38" device="0" group_id="0" ino="0" mod_time="2010-05-11T16:26:34" mode="33206" number_links="0" size="3369" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:18:29.315000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test/FileRegister.xml">
+		<System_Metadata acess_time="2012-01-03T23:02:37" creation_time="2012-01-03T23:02:37" device="0" group_id="0" ino="0" mod_time="2012-01-03T23:19:11" mode="33206" number_links="0" size="9479" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:18:29.325000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test/FR_STYLE.xsl">
+		<System_Metadata acess_time="2012-01-03T23:11:29" creation_time="2012-01-03T23:11:29" device="0" group_id="0" ino="0" mod_time="2009-09-03T17:02:25" mode="33206" number_links="0" size="976" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:18:29.345000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test/pyMeasure_files.xml">
+		<System_Metadata acess_time="2011-12-31T21:11:23" creation_time="2011-12-31T21:11:23" device="0" group_id="0" ino="0" mod_time="2011-12-29T13:44:42" mode="33206" number_links="0" size="44697" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.385000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2011-08-22T13:31:36" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.405000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/PyMeasure Files">
+		<System_Metadata acess_time="2011-12-30T22:34:19" creation_time="2011-12-30T22:34:17" device="0" group_id="0" ino="0" mod_time="2011-12-30T22:34:19" mode="16895" number_links="0" size="0" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.415000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Test">
+		<System_Metadata acess_time="2012-01-03T23:11:29" creation_time="2011-12-31T21:10:57" device="0" group_id="0" ino="0" mod_time="2012-01-03T23:11:29" mode="16895" number_links="0" size="0" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.425000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup">
+		<System_Metadata acess_time="2011-12-30T22:34:50" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2011-12-30T22:34:50" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.435000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/DEFAULT_STYLE.xsl">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2009-10-19T08:52:52" mode="33206" number_links="0" size="1517" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.455000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Component.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-05-10T17:26:40" mode="33206" number_links="0" size="505" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<dpi>
+				(72, 72)
+			</dpi>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.465000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Designer.bmp">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-04-01T09:21:47" mode="33206" number_links="0" size="4150" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<compression>
+				0
+			</compression>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.475000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Display.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-05-11T13:30:31" mode="33206" number_links="0" size="340" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<Comment>
+				Created with GIMP
+			</Comment>
+			<dpi>
+				(72, 72)
+			</dpi>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.485000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Inspector.bmp">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-04-01T09:25:19" mode="33206" number_links="0" size="4150" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<compression>
+				0
+			</compression>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.495000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Next.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2002-03-11T22:30:46" mode="33206" number_links="0" size="226" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata/>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.505000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/OceanOpticsLogo.bmp">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2009-10-21T17:19:37" mode="33206" number_links="0" size="6966" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<compression>
+				0
+			</compression>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.525000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/OceanOpticsLogo.jpg">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2009-10-21T14:05:32" mode="33206" number_links="0" size="1064" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<jfif_version>
+				(1, 1)
+			</jfif_version>
+			<jfif>
+				257
+			</jfif>
+			<jfif_unit>
+				0
+			</jfif_unit>
+			<jfif_density>
+				(1, 1)
+			</jfif_density>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.535000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Previous.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2002-03-11T22:31:18" mode="33206" number_links="0" size="220" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata/>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.545000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/pyMeasure1.bmp">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-04-09T10:57:53" mode="33206" number_links="0" size="1078" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<compression>
+				0
+			</compression>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.565000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Run.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2002-03-11T21:24:52" mode="33206" number_links="0" size="189" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata/>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.585000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Sage.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2011-01-26T16:09:58" mode="33206" number_links="0" size="661" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<Comment>
+				Created with GIMP
+			</Comment>
+			<dpi>
+				(72, 72)
+			</dpi>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.605000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/sage_logo_v3_s_icon.ico">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-05-06T17:10:38" mode="33206" number_links="0" size="20862" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.625000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/sage_logo_v3_s_icon.png">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2010-04-14T17:12:57" mode="33206" number_links="0" size="4079" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<dpi>
+				(90, 90)
+			</dpi>
+		</Image_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.645000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/Images/Thumbs.db">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2011-05-03T16:52:35" mode="33206" number_links="0" size="31232" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.665000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/PyMeasure Files/FR_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:17" creation_time="2011-12-30T22:34:17" device="0" group_id="0" ino="0" mod_time="2009-09-03T17:02:25" mode="33206" number_links="0" size="976" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.685000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/PyMeasure Files/METADATA_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:18" creation_time="2011-12-30T22:34:18" device="0" group_id="0" ino="0" mod_time="2009-09-17T11:37:11" mode="33206" number_links="0" size="2474" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.705000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/PyMeasure Files/pyMeasure_files.xml">
+		<System_Metadata acess_time="2011-12-30T22:34:19" creation_time="2011-12-30T22:34:19" device="0" group_id="0" ino="0" mod_time="2011-12-29T13:44:42" mode="33206" number_links="0" size="44697" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.735000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/PyMeasure Files/pyMeasure_files_Metadata.xml">
+		<System_Metadata acess_time="2011-12-30T22:34:19" creation_time="2011-12-30T22:34:19" device="0" group_id="0" ino="0" mod_time="2011-12-29T13:44:32" mode="33206" number_links="0" size="131442" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.775000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_END_OF_DAY_LOG_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:45" creation_time="2011-12-30T22:34:45" device="0" group_id="0" ino="0" mod_time="2011-01-21T15:29:08" mode="33206" number_links="0" size="1447" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.805000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_INSTRUMENT_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:46" creation_time="2011-12-30T22:34:46" device="0" group_id="0" ino="0" mod_time="2010-05-11T16:26:32" mode="33206" number_links="0" size="3369" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.825000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_LOG_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:47" creation_time="2011-12-30T22:34:47" device="0" group_id="0" ino="0" mod_time="2009-10-27T11:39:18" mode="33206" number_links="0" size="880" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.855000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_MEASUREMENT_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:47" creation_time="2011-12-30T22:34:47" device="0" group_id="0" ino="0" mod_time="2011-02-13T23:18:03" mode="33206" number_links="0" size="2074" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.875000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_STATE_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:48" creation_time="2011-12-30T22:34:48" device="0" group_id="0" ino="0" mod_time="2010-08-30T18:00:34" mode="33206" number_links="0" size="2337" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.905000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/DEFAULT_STYLE.xsl">
+		<System_Metadata acess_time="2011-08-22T13:31:36" creation_time="2011-08-22T13:31:36" device="0" group_id="0" ino="0" mod_time="2009-10-19T08:52:50" mode="33206" number_links="0" size="1517" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.935000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/FR_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:49" creation_time="2011-12-30T22:34:49" device="0" group_id="0" ino="0" mod_time="2009-09-03T17:02:25" mode="33206" number_links="0" size="976" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:10.965000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/METADATA_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:49" creation_time="2011-12-30T22:34:49" device="0" group_id="0" ino="0" mod_time="2009-09-17T11:37:11" mode="33206" number_links="0" size="2474" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:19:11.005000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Settings/XSL Backup/TEST_LINK_LOG_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T22:34:50" creation_time="2011-12-30T22:34:50" device="0" group_id="0" ino="0" mod_time="2010-12-07T16:24:20" mode="33206" number_links="0" size="1253" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+
+</File_Registry>

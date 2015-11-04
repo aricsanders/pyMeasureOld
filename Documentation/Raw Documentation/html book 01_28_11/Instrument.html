@@ -1,0 +1,137 @@
+<html xmlns:h="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <title>KEITHLEY6487</title>
+  </head>
+  <body>
+    <h2>Instrument: KEITHLEY6487</h2><i>Made By: <a href="http://www.keithley.com/products/dcac/voltagesource/application/?mn=6487">KEITHLEY</a></i>
+    <br>
+
+    <img src="./KEITHLEY6487_NSOM_Images/Keithley_Image_1.jpg"><a href="file://132.163.128.161/68_pml/686/68604/NSOM/Keithley/6487_901_01A.pdf"><h3>Manual </h3></a>
+    <table>
+      <tr>
+        <td><b>Name :</b></td>
+        <td>KEITHLEY6487</td>
+      </tr>
+      <tr>
+        <td><b>Alias :</b></td>
+        <td>picoammeter</td>
+      </tr>
+      <tr>
+        <td><b>Location :</b></td>
+        <td>NSOM Rm 3311</td>
+      </tr>
+      <tr>
+        <td><b>Serial :</b></td>
+        <td>1111167</td>
+      </tr>
+      <tr>
+        <td><b>IDN :</b></td>
+        <td>'KEITHLEY INSTRUMENTS INC.,MODEL 6487,1111167,A06   Jun 20 2006 15:08:40/A02  /C/E'</td>
+      </tr>
+      <tr>
+        <td><b>Instrument_Type :</b></td>
+        <td>GPIB</td>
+      </tr>
+      <tr>
+        <td><b>Instrument_Address :</b></td>
+        <td>GPIB::21</td>
+      </tr>
+    </table>
+    <hr>
+    <br>
+
+    
+    <h3>Commands:</h3>
+    <table>
+      <tr>
+        <td><b>Command :</b></td>
+        <td>This is the command sent over the GPIB bus.</td>
+      </tr>
+      <tr>
+        <td><b>Type :</b></td>
+        <td>Whether or not it returns a value or just sets something.</td>
+      </tr>
+      <tr>
+        <td><b>Argument :</b></td>
+        <td>The parameter the command passes to the instrument. Optional parameters
+        are denoted with an *. The types of paramters are int=integer, float=floating point number,
+        string=string, bool=boolean and None=NULL.</td>
+      </tr>
+      <tr>
+        <td><b>Returns :</b></td>
+        <td> What gets returned by the function. </td>
+      </tr>
+      <tr>
+        <td><b>Description :</b></td>
+        <td>A one line describing the purpose of the function, for more detailed info look in the manual. </td>
+      </tr>
+    </table>
+    <table bordercolor="black" bgcolor="silver" border="2" cellpadding="4" bordercolorlight="black">
+      <tr>
+        <th><big>Command</big></th>
+        <th><big>Type</big></th>
+        <th><big>Argument</big></th>
+        <th><big>Returns</big></th>
+        <th><big>Description</big></th>
+      </tr>
+      <tr>
+        <td><b>SYST:ZCH</b></td>
+        <td style="color:red">SET</td>
+        <td style="color:blue">String</td>
+        <td style="color:blue">None</td>
+        <td><i>Enables zero check. ON or OFF</i></td>
+      </tr>
+      <tr>
+        <td><b>SYST:ZCH?</b></td>
+        <td style="color:red">QUERY</td>
+        <td style="color:blue">None</td>
+        <td style="color:blue">bool</td>
+        <td><i>Queries the zero check.</i></td>
+      </tr>
+      <tr>
+        <td><b>CURR:RANG</b></td>
+        <td style="color:red">SET</td>
+        <td style="color:blue">float</td>
+        <td style="color:blue">None</td>
+        <td><i>Sets the measurement range of the picoammeter.</i></td>
+      </tr>
+      <tr>
+        <td><b>CURR:RANG?</b></td>
+        <td style="color:red">QUERY</td>
+        <td style="color:blue">None</td>
+        <td style="color:blue">float</td>
+        <td><i>Queries the measurement range of the picoammeter.</i></td>
+      </tr>
+    </table>
+    <h3> State Commands </h3>
+    <table bordercolor="black" bgcolor="silver" border="2" cellpadding="4" bordercolorlight="black">
+      <tr>
+        <th><big>Command to Set state</big></th>
+        <th><big>Command to Query state</big></th>
+      </tr>
+      <tr>
+        <td><b>CURR:RANG</b></td>
+        <td><b>CURR:RANG?</b></td>
+      </tr>
+      <tr>
+        <td><b>SOUR:VOLT:STAT</b></td>
+        <td><b>SOUR:VOLT:STAT?</b></td>
+      </tr>
+      <tr>
+        <td><b>SOUR:VOLT</b></td>
+        <td><b>SOUR:VOLT?</b></td>
+      </tr>
+      <tr>
+        <td><b>SOUR:VOLT:ILIM</b></td>
+        <td><b>SOUR:VOLT:ILIM?</b></td>
+      </tr>
+      <tr>
+        <td><b>SOUR:VOLT:RANG</b></td>
+        <td><b>SOUR:VOLT:RANG?</b></td>
+      </tr>
+    </table>
+	
+
+  </body>
+</html>

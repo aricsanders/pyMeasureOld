@@ -1,0 +1,2566 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="METADATA_STYLE.xsl"?>
+<?xml-FileRegistry href="Code_File_Register.xml"?>
+<File_Registry>
+	
+	
+	<File Date="2012-01-04T06:27:04.473000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds">
+		<System_Metadata acess_time="2011-12-31T00:50:48" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:50:48" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.473000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers">
+		<System_Metadata acess_time="2012-01-03T23:15:30" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2012-01-03T23:15:30" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.483000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development">
+		<System_Metadata acess_time="2012-01-03T17:59:08" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2012-01-03T17:59:08" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.503000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-30T15:02:33" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.503000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc">
+		<System_Metadata acess_time="2011-12-30T21:12:43" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-30T21:12:43" mode="16895" number_links="0" size="4096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.513000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2009-10-06T09:54:44" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.513000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.11.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:23:32" mode="33206" number_links="0" size="158" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.523000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.11.11.21.11.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Experiments.py">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-30T20:48:20" mode="33206" number_links="0" size="8098" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Experiments is a base module for controlling experiments&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.533000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Experiments.pyc">
+		<System_Metadata acess_time="2011-12-30T20:59:47" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-30T20:59:47" mode="33206" number_links="0" size="7838" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.543000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/ImageFilePathInfo.ini">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2009-10-30T22:13:14" mode="33206" number_links="0" size="49" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.553000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Instruments.py">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-30T21:54:37" mode="33206" number_links="0" size="43505" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; The Module Instruments Contains Classes and functions to control 
+USB DAQ's. &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.573000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Instruments.pyc">
+		<System_Metadata acess_time="2011-12-30T21:54:42" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-30T21:54:42" mode="33206" number_links="0" size="37405" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.583000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Mightex.py">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2009-10-30T22:17:03" mode="33206" number_links="0" size="50868" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Module for controling the mightex usb camera, using the Mightex
+ resources.&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.593000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Mightex.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:53:30" mode="33206" number_links="0" size="51886" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.603000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/Mightex.txt">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2009-10-19T09:24:43" mode="33206" number_links="0" size="1448" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.623000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/MTApplication.exe">
+		<System_Metadata acess_time="2011-12-30T15:02:20" creation_time="2011-12-30T15:02:20" device="0" group_id="0" ino="0" mod_time="2010-09-01T09:57:39" mode="33279" number_links="0" size="475648" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.643000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/MtUsbLib.dll">
+		<System_Metadata acess_time="2011-12-30T15:02:21" creation_time="2011-12-30T15:02:21" device="0" group_id="0" ino="0" mod_time="2006-09-26T00:55:38" mode="33206" number_links="0" size="233608" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:04.663000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/MT_USBCamera_SDK.dll">
+		<System_Metadata acess_time="2011-12-30T15:02:22" creation_time="2011-12-30T15:02:22" device="0" group_id="0" ino="0" mod_time="2008-12-31T08:55:18" mode="33206" number_links="0" size="1262080" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.194000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/MT_USBCamera_SDK_Stdcall.dll">
+		<System_Metadata acess_time="2011-12-30T15:02:25" creation_time="2011-12-30T15:02:25" device="0" group_id="0" ino="0" mod_time="2008-12-31T08:54:06" mode="33206" number_links="0" size="1262080" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.214000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/OceanOptics.py">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:49:08" mode="33206" number_links="0" size="2991" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Module contains the functions and classes for using the Ocean Optics USB 
+Spectrometers&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.224000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/OceanOptics.pyc">
+		<System_Metadata acess_time="2011-12-31T00:50:48" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:50:48" mode="33206" number_links="0" size="2286" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.244000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2009-09-14T11:29:19" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.264000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/BackEnds/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:53:29" mode="33206" number_links="0" size="167" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.284000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/ArbDB.py">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2012-01-03T23:24:55" mode="33206" number_links="0" size="34019" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Arbitary Database are tools for working with a XML database of URLs &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.304000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/ArbDB.pyc">
+		<System_Metadata acess_time="2012-01-03T23:15:30" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2012-01-03T23:15:30" mode="33206" number_links="0" size="24793" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.334000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Instruments.py">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-30T23:14:26" mode="33206" number_links="0" size="11223" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Data types and functions to handle instrument xml data sheets &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.354000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Instruments.pyc">
+		<System_Metadata acess_time="2011-12-31T00:02:44" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:02:44" mode="33206" number_links="0" size="8826" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.384000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Logs.py">
+		<System_Metadata acess_time="2011-12-30T15:02:28" creation_time="2011-12-30T15:02:28" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:22:20" mode="33206" number_links="0" size="18902" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Logs is a module to handle general Log data types &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.414000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Logs.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:33:58" mode="33206" number_links="0" size="18794" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.434000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Measurements.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:06:56" mode="33206" number_links="0" size="13387" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Measurements is a module that defines functions and classes to hold and 
+manipulate measured data.&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.464000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Measurements.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:12" mode="33206" number_links="0" size="12181" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.494000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Reports.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:05:55" mode="33206" number_links="0" size="28132" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Reports generates HTML files and plots after data aquistion.&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.524000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Reports.pyc">
+		<System_Metadata acess_time="2011-12-31T00:53:42" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:53:42" mode="33206" number_links="0" size="22516" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.554000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Settings.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:30:29" mode="33206" number_links="0" size="502" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.574000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/Settings.pyc">
+		<System_Metadata acess_time="2011-12-31T00:53:43" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-31T00:53:43" mode="33206" number_links="0" size="248" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.614000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/States.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:58:59" mode="33206" number_links="0" size="9299" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; The module States defines classes and functions for manipulating State data 
+from instruments and experiments &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.644000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/States.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T17:00:12" mode="33206" number_links="0" size="8025" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.674000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2009-09-14T11:29:41" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.704000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/DataHandlers/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:53:30" mode="33206" number_links="0" size="171" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.744000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/AdvancedInterfaceFrame.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-12-30T14:54:33" mode="33206" number_links="0" size="34020" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Advanced wx.Frame with standard containers for interface and control this
+is meant as a template for GUI design and a test bed for pyMeasure&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.794000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/HTMLPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2010-12-07T21:18:10" mode="33206" number_links="0" size="2976" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			    &quot;&quot;&quot; speciallized Html window &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.824000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/I-11-1_1.txt">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-04-19T16:39:00" mode="33206" number_links="0" size="7730" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.854000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/I-11-1_1.xml">
+		<System_Metadata acess_time="2011-12-30T15:02:29" creation_time="2011-12-30T15:02:29" device="0" group_id="0" ino="0" mod_time="2011-04-29T10:51:49" mode="33206" number_links="0" size="57975" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.894000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/MatplotlibWxPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-05-09T17:18:24" mode="33206" number_links="0" size="8331" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot;
+&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.924000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/MatplotlibWxPanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:05" mode="33206" number_links="0" size="6096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.964000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/New_Process_Sheet.xml">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2010-12-07T21:07:23" mode="33206" number_links="0" size="192" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:09.994000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/ProcessSheets.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:29:22" mode="33206" number_links="0" size="17875" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; PrcoessSheets contains classes and functions for working with XML based
+travelers and processing sheets&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.044000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/ProcessSheets.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-12-30T14:26:26" mode="33206" number_links="0" size="16765" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.084000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/ShellDialog.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-01-26T15:24:43" mode="33206" number_links="0" size="1482" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.114000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/SimpleIVFrame1.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2009-02-04T19:45:33" mode="33206" number_links="0" size="7125" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			        &quot;&quot;&quot;Makes a list of floats given a string or numbers&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.154000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/SPAData.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-05-18T16:10:03" mode="33206" number_links="0" size="13275" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; SPAData is a module to manipulate, move and save data from the Keithley IV SPA&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.204000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/SPAData.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-09-23T12:59:43" mode="33206" number_links="0" size="13710" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.254000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/StyledTextCtrlPanel.py">
+		<System_Metadata acess_time="2012-01-01T14:29:35" creation_time="2012-01-01T14:29:35" device="0" group_id="0" ino="0" mod_time="2012-01-02T21:50:21" mode="33206" number_links="0" size="34687" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			demoText = &quot;&quot;&quot;\
+&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.294000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/StyledTextCtrlPanel.pyc">
+		<System_Metadata acess_time="2012-01-02T21:50:25" creation_time="2012-01-02T15:45:28" device="0" group_id="0" ino="0" mod_time="2012-01-02T21:50:25" mode="33206" number_links="0" size="21185" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.334000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/VisaDialog.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-01-26T17:29:24" mode="33206" number_links="0" size="9769" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.374000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/VisaDialog.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:05" mode="33206" number_links="0" size="9339" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.434000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/WaferName.xml">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2012-01-02T22:39:39" mode="33206" number_links="0" size="2066" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.484000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/WaferName_STYLE.xsl">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-05-16T00:11:56" mode="33206" number_links="0" size="1744" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.524000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/XMLEditPanel.py">
+		<System_Metadata acess_time="2011-12-31T21:42:51" creation_time="2011-12-31T21:42:51" device="0" group_id="0" ino="0" mod_time="2012-01-03T07:53:35" mode="33206" number_links="0" size="11060" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.574000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/XMLGeneral.py">
+		<System_Metadata acess_time="2011-12-31T19:19:22" creation_time="2011-12-31T19:19:22" device="0" group_id="0" ino="0" mod_time="2012-01-02T23:06:51" mode="33206" number_links="0" size="6650" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot;XMLGeneral handles general XML document tasks and is meant to be a DataHandler for 
+the General XML editing FrontEnds&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.624000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/XMLGeneral.pyc">
+		<System_Metadata acess_time="2012-01-03T17:59:08" creation_time="2011-12-31T21:20:15" device="0" group_id="0" ino="0" mod_time="2012-01-03T17:59:08" mode="33206" number_links="0" size="5716" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.674000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/XMLTreectrlFrame.py">
+		<System_Metadata acess_time="2011-12-30T15:02:30" creation_time="2011-12-30T15:02:30" device="0" group_id="0" ino="0" mod_time="2011-12-31T19:01:00" mode="33206" number_links="0" size="6862" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.724000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/xray_python.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-04-19T14:15:45" mode="33206" number_links="0" size="21058" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Module to Handle and plot xray data&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.774000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2009-10-06T09:54:44" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.844000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Development/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:05" mode="33206" number_links="0" size="170" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.904000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/ArbDBRightControlPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2010-07-21T15:16:47" mode="33206" number_links="0" size="2287" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:10.954000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/BasicInterfaceFrame.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:59:32" mode="33206" number_links="0" size="30285" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Advanced wx.Frame with standard containers for interface and control this
+is meant as a template for GUI design and a test bed for pyMeasure&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.014000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/BasicInterfaceFrame.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2010-06-08T17:12:34" mode="33206" number_links="0" size="24474" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.074000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/EndOfDayDialog.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:32:14" mode="33206" number_links="0" size="11719" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.164000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/EndOfDayDialog.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:33:58" mode="33206" number_links="0" size="10775" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.224000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/GeneralInterfaceFrame.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2010-05-07T10:28:14" mode="33206" number_links="0" size="11054" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Advanced wx.Frame with standard containers for interface and control this
+is meant as a template for GUI design&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.284000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/GeneralInterfaceFrame.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2010-06-08T10:37:09" mode="33206" number_links="0" size="11010" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.344000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/IEPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T13:42:39" mode="33206" number_links="0" size="9589" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			        &quot;&quot;&quot; After a file is navigated to updates the location bar&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.404000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/IEPanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:31:54" mode="33206" number_links="0" size="10363" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.494000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/KeithleyIVPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-02-14T20:56:06" mode="33206" number_links="0" size="18161" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.554000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/KeithleyIVPanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:31" creation_time="2011-12-30T15:02:31" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:12" mode="33206" number_links="0" size="14492" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.624000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/OceanOpticsFrame.py">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2009-10-22T16:10:30" mode="33206" number_links="0" size="8967" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.684000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/QE65000Panel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-29T17:25:16" mode="33206" number_links="0" size="9470" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Base Panel For Simple QE65000 Ocean Optics Spectrometer Interface&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.754000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/QE65000Panel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-05-09T14:35:16" mode="33206" number_links="0" size="9091" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.824000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/ShellPanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:02" mode="33206" number_links="0" size="20793" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot;This is a shell, modified from the shell in Boa Constructor&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.894000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/ShellPanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:51:05" mode="33206" number_links="0" size="23853" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:11.964000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/SimpleArbDBLowerInterfacePanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-30T09:53:18" mode="33206" number_links="0" size="18250" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; An interface panel for simple editing of logs, plugs into lower interface container&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.034000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/SimpleArbDBLowerInterfacePanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-30T09:53:23" mode="33206" number_links="0" size="15822" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.134000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/SimpleLogLowerInterfacePanel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:32" creation_time="2011-12-30T15:02:32" device="0" group_id="0" ino="0" mod_time="2011-12-30T09:47:28" mode="33206" number_links="0" size="16929" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; An interface panel for simple editing of logs, plugs into lower interface container&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.214000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/SimpleLogLowerInterfacePanel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-30T09:47:33" mode="33206" number_links="0" size="15009" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.284000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.21.11.11.21.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/USB2000Panel.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-05-09T14:40:26" mode="33206" number_links="0" size="9281" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Base Panel For Simple USB2000 Ocean Optics Spectrometer Interface&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.354000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/USB2000Panel.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-05-09T14:41:16" mode="33206" number_links="0" size="8993" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.434000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2009-09-14T11:29:53" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.514000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/FrontEnds/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-29T16:31:54" mode="33206" number_links="0" size="168" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.584000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/Alias.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-30T21:10:38" mode="33206" number_links="0" size="3559" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; Module that defines functions for handling alias definitions in Clases &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.704000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/Alias.pyc">
+		<System_Metadata acess_time="2011-12-30T21:12:43" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-30T21:12:43" mode="33206" number_links="0" size="3216" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.784000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/GetMetadata.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2010-07-13T10:26:03" mode="33206" number_links="0" size="8711" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; This module gets metadata on files from the filesytem (Windows only) or
+the file itself.&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.864000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/GetMetadata.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:23:32" mode="33206" number_links="0" size="6648" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:12.944000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/Names.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:55:31" mode="33206" number_links="0" size="4450" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; The module names contains the functions for automatically 
+generating file names &quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:13.034000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/Names.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:56:08" mode="33206" number_links="0" size="3972" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:13.124000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/__init__.py">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2009-09-14T11:30:03" mode="33206" number_links="0" size="26" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+	
+	<File Date="2012-01-04T06:27:13.254000" Host="686ASLAP.campus.nist.gov" Id="fe80::6172:8f55:2be2:c265.11.11.21.11.11.11.21.11.11.21" Type="Ordinary" URL="file:C:/Users/sandersa/Desktop/My Documents/Share/pyMeasure/Code/Misc/__init__.pyc">
+		<System_Metadata acess_time="2011-12-30T15:02:33" creation_time="2011-12-30T15:02:33" device="0" group_id="0" ino="0" mod_time="2011-12-29T15:23:32" mode="33206" number_links="0" size="163" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+
+</File_Registry>

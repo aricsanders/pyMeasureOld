@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Data/States/DEFAULT_STATE_STYLE.XSL"?>
+<Instrument_State>
+  <State Date='2010-08-31T16:26:59.874000'>
+    <Tuple Set='SOUR:VOLT:STAT' Value='1'/>
+    <Tuple Set='SOUR:VOLT:RANG' Value='1.000000E+01'/>
+    <Tuple Set='SOUR:VOLT' Value='0.000000E+00'/>
+    <Tuple Set='CURR:RANG' Value='2.100000E-04'/>
+    <Tuple Set='SOUR:VOLT:ILIM' Value='2.500000E-02'/>
+  </State>
+  <State_Description>
+    <Instrument_Description>C:\Documents and Settings\sandersa\My Documents\Share\pyMeasure\Instruments\KEITHLEY6487_NSOM.xml</Instrument_Description>
+  </State_Description>
+</Instrument_State>

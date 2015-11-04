@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>
+    </Name>
+    <Notes>
+    </Notes>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-14T21:32:47.781000</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-3.689731E-12A' Index='0' Voltage='-000.1000'/>
+    <Tuple Current='-1.196429E-11A' Index='1' Voltage='-000.0778'/>
+    <Tuple Current='+1.874310E-12A' Index='2' Voltage='-000.0556'/>
+    <Tuple Current='+1.372192E-13A' Index='3' Voltage='-000.0334'/>
+    <Tuple Current='+2.605595E-12A' Index='4' Voltage='-000.0112'/>
+    <Tuple Current='+8.676991E-13A' Index='5' Voltage='+000.0112'/>
+    <Tuple Current='-7.847126E-12A' Index='6' Voltage='+000.0334'/>
+    <Tuple Current='-5.555941E-12A' Index='7' Voltage='+000.0556'/>
+    <Tuple Current='-1.579668E-11A' Index='8' Voltage='+000.0778'/>
+    <Tuple Current='-3.749464E-12A' Index='9' Voltage='+000.1000'/>
+  </Data>
+</Data_Table>

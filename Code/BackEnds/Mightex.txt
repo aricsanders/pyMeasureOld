@@ -1,0 +1,9 @@
+SDK_API MTUSB_ShowFrameControlPanel( DEV_HANDLE DevHandle, bool IsTriggerModeAllow, bool CloseParent, char *Title, int Left, int Top); 
+For user to develop application conveniently and easily, the library provides its second dialog window which has all the camera controls on it, if user use this window in his application, it's NOT necessarily to use most of other functions. 
+Argument: DevHandle - the device handle returned by either MTUSB_ShowOpenDeviceDialog() or MTUSB_OpenDevice() 
+IsTriggerModeAllow - Set to control whether the Trigger Mode Selection is visible on control panel. We provide this parameter for user doesn't want to have "External Trigger" mode available on control panel. 
+CloseParent - Set to TRUE if user wants to close the Parent Window of the control panel, while user click the [x] button of the panel, note that this usually closes the whole application. Title - The Title will be displayed on the control panel. 
+Left, Top - the Top-Left position of the control panel. 
+Return: -1 If the function fails (e.g. invalid device handle) 
+1 If the call succeeds. 
+Important: Close this control panel will close the whole application (it will post a message of SC_CLOSE to it's parent window), so if user wants to have this control panel shown in application, the parent window is NOT necessarily visible. If user wants to hide this panel, don't close it, but invoke MTUSB_HideFrameControlPanel() function instead. 

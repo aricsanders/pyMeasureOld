@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <y>y Distance in microns.</y>
+    <x>X Distance in microns.</x>
+    <Notes>This data is fake</Notes>
+  </Data_Description>
+  <Data>
+    <Tuple X0='1' X1='2'/>
+    <Tuple X0='2' X1='3'/>
+  </Data>
+</Data_Table>

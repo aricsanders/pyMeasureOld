@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_MEASUREMENT_STYLE.XSL"?>
+<Data_Table>
+  <Data_Description>
+    <Index>Order in which the point was taken</Index>
+    <Name>23732 WB C023 DIE 1 III 5-2</Name>
+    <Notes>Probe On Wire!!!!    original IV in air has R of 16318 Ohms.</Notes>
+    <Current>Current in Amps</Current>
+    <Instrument_Description>C:/Documents and Settings/sandersa/My Documents/Share/pyMeasure/Instruments/KEITHLEY6487_NSOM.xml</Instrument_Description>
+    <Voltage>Voltage in Volts</Voltage>
+    <Date>2011-02-14T23:35:54</Date>
+  </Data_Description>
+  <Data>
+    <Tuple Current='-7.358762E-07' Index='0' Voltage='-000.0100'/>
+    <Tuple Current='-5.772193E-07' Index='1' Voltage='-000.0078'/>
+    <Tuple Current='-4.181724E-07' Index='2' Voltage='-000.0056'/>
+    <Tuple Current='-2.593463E-07' Index='3' Voltage='-000.0034'/>
+    <Tuple Current='-9.965702E-08' Index='4' Voltage='-000.0012'/>
+    <Tuple Current='+8.914919E-08' Index='5' Voltage='+000.0012'/>
+    <Tuple Current='+2.493914E-07' Index='6' Voltage='+000.0034'/>
+    <Tuple Current='+4.069871E-07' Index='7' Voltage='+000.0056'/>
+    <Tuple Current='+5.670762E-07' Index='8' Voltage='+000.0078'/>
+    <Tuple Current='+7.249035E-07' Index='9' Voltage='+000.0100'/>
+  </Data>
+</Data_Table>

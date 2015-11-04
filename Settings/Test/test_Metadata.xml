@@ -1,0 +1,999 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="METADATA_STYLE.xsl"?>
+<?xml-FileRegistry href="C:\Documents and Settings\sandersa\My Documents\Share\ArbDB\test.xml"?>
+<File_Registry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="C:\Documents and Settings\sandersa\My Documents\Share\XML\test.xsd">
+	
+  
+	<File Date="2008-02-29T11:29:29.238-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/.">
+		<System_Metadata acess_time="2011-01-24T13:51:32" creation_time="2008-02-12T09:33:28" device="0" group_id="0" ino="0" mod_time="2011-01-21T16:32:06" mode="16895" number_links="0" size="0" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.301-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/..">
+		<System_Metadata acess_time="2011-01-24T13:51:32" creation_time="2007-03-26T07:34:10" device="0" group_id="0" ino="0" mod_time="2011-01-19T10:39:22" mode="16895" number_links="0" size="0" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.363-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.22" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/Add_File_Entry.asv">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T12:51:51" device="0" group_id="0" ino="0" mod_time="2008-03-12T14:18:59" mode="33206" number_links="0" size="3896" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.411-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.23" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/Add_File_Entry.m">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T12:49:33" device="0" group_id="0" ino="0" mod_time="2008-03-12T14:49:42" mode="33206" number_links="0" size="4167" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.458-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.24" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/Arbitrary Database Structure.doc">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-25T13:30:50" device="0" group_id="0" ino="0" mod_time="2008-02-25T13:30:50" mode="33206" number_links="0" size="22016" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				Aric Sanders
+			</author>
+			<title>
+				Arbitrary Database Structure
+			</title>
+			<comments>
+				
+			</comments>
+			<keywords>
+				
+			</keywords>
+			<subject>
+				
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.520-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.25" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/EPI #4 X 0 Y-3 1.jpg"/>
+	
+  
+	<File Date="2008-02-29T11:29:29.583-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.26" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/File_Register.xsd">
+		<System_Metadata acess_time="2011-01-24T13:40:29" creation_time="2008-02-22T11:41:42" device="0" group_id="0" ino="0" mod_time="2008-03-11T12:16:48" mode="33206" number_links="0" size="628" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.645-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.27" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/File_Register.xsd.txt">
+		<System_Metadata acess_time="2011-01-24T13:40:29" creation_time="2008-02-22T11:41:19" device="0" group_id="0" ino="0" mod_time="2008-02-22T11:41:19" mode="33206" number_links="0" size="642" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.708-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.28" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/Scriptresolveip.m">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-25T11:51:53" device="0" group_id="0" ino="0" mod_time="2008-03-07T18:15:28" mode="33206" number_links="0" size="504" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.786-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.29" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/createID.asv">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-26T09:02:43" device="0" group_id="0" ino="0" mod_time="2008-03-12T14:33:59" mode="33206" number_links="0" size="12565" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.863-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.210" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/createID.m">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2008-02-26T09:00:25" device="0" group_id="0" ino="0" mod_time="2008-03-12T14:37:41" mode="33206" number_links="0" size="12791" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:29.942-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.211" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/createIDscript.asv">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-27T11:53:39" device="0" group_id="0" ino="0" mod_time="2008-03-07T18:10:50" mode="33206" number_links="0" size="11874" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.020-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.212" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/createIDscript.m">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2008-02-27T11:26:56" device="0" group_id="0" ino="0" mod_time="2008-03-07T18:13:02" mode="33206" number_links="0" size="11947" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.113-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.213" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/make_XMLsheet.asv">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-15T15:36:39" device="0" group_id="0" ino="0" mod_time="2008-02-19T09:46:49" mode="33206" number_links="0" size="2690" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.208-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.214" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/make_XMLsheet.m">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2008-02-15T15:35:19" device="0" group_id="0" ino="0" mod_time="2008-02-19T09:47:53" mode="33206" number_links="0" size="2728" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.301-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.215" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/mit-mathml-fonts-1.0-fc1.msi">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-12T15:32:20" device="0" group_id="0" ino="0" mod_time="2008-02-12T15:32:18" mode="33206" number_links="0" size="2052096" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				
+			</author>
+			<title>
+				MIT MathML Fonts 1.0
+			</title>
+			<comments>
+				
+			</comments>
+			<keywords>
+				
+			</keywords>
+			<subject>
+				
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.411-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.216" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/resolveip.m">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-25T11:40:36" device="0" group_id="0" ino="0" mod_time="2008-02-25T11:53:20" mode="33206" number_links="0" size="510" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.520-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.217" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/scriptAFE.asv">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T14:01:51" device="0" group_id="0" ino="0" mod_time="2008-02-25T09:17:03" mode="33206" number_links="0" size="689" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.630-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.218" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/scriptAFE.m">
+		<System_Metadata acess_time="2011-01-24T13:40:29" creation_time="2008-02-22T13:37:34" device="0" group_id="0" ino="0" mod_time="2008-03-12T14:17:04" mode="33206" number_links="0" size="3752" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.755-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.219" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/seamonkey-1.1.8.en-US.win32.installer.exe">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-12T15:25:41" device="0" group_id="0" ino="0" mod_time="2008-02-12T15:25:44" mode="33279" number_links="0" size="13000704" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:30.880-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.11" Type="Directory" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/test 1">
+		<System_Metadata acess_time="2011-01-24T06:54:43" creation_time="2008-02-25T16:04:47" device="0" group_id="0" ino="0" mod_time="2008-02-25T16:04:47" mode="16895" number_links="0" size="0" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.005-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.220" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/test.fr">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T12:35:12" device="0" group_id="0" ino="0" mod_time="2008-03-12T13:15:52" mode="33206" number_links="0" size="10598" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.161-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.221" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/test.frtest">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T15:48:19" device="0" group_id="0" ino="0" mod_time="2008-02-26T16:24:14" mode="33206" number_links="0" size="1124" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.286-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.222" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/test.xsd">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-22T12:14:09" device="0" group_id="0" ino="0" mod_time="2008-02-22T12:41:33" mode="33206" number_links="0" size="402" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.442-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.223" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/testProcess1.xml">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-15T10:34:33" device="0" group_id="0" ino="0" mod_time="2008-02-15T10:34:33" mode="33206" number_links="0" size="330" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.583-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.224" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/trialXML 2.xml">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-12T16:15:33" device="0" group_id="0" ino="0" mod_time="2008-02-12T16:18:03" mode="33206" number_links="0" size="1220" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.738-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.225" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/trialXML.xml">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2008-02-12T12:06:40" device="0" group_id="0" ino="0" mod_time="2008-02-12T15:24:24" mode="33206" number_links="0" size="1276" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T11:29:31.895-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.11.226" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XML/trialXML2.xml">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2008-02-12T16:19:50" device="0" group_id="0" ino="0" mod_time="2008-02-12T16:21:28" mode="33206" number_links="0" size="1431" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2008-02-29T13:15:21.513-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.22" Type="Ordinary" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/XMLseamonkey-1.1.8.en-US.win32.installer.exe"/>
+	
+  
+	<File Date="2008-02-29T13:49:22.939-07:00" Host="jake.flatirons.nist.gov" Id="132.163.128.161.11.11.11.11.11.11.11.21" Type="Ordinary" URL="file://132.163.128.161/81_eeel/815/81504/Sanders/Temp/PL Data/C076 RT HeCd wafer PL 1 SEM 3.txt"/>
+	
+  
+	<File Date="2008-02-29T14:20:00.131-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.12.11.11.11.11.11.22" Type="Ordinary" URL="file:D:/Documents and Settings/Aric/My Documents/To do/06-2006/Co thesis trip.doc"/>
+	
+  
+	<File Date="2008-02-29T14:23:38.318-07:00" Host="815as1.bw.nist.gov" Id="132.163.53.152.13.11.11.21" Type="Ordinary" URL="file:E:/Shaila's Documents 110707/Aric's Secret Documents/Aric's calendar.xls"/>
+	
+  
+	<File Date="2008-02-29T18:24:32.255-07:00" Host="www.w3schools.com" Id="216.128.29.26.11.11.21" Type="Ordinary" URL="http://www.w3schools.com/xsl/xsl_for_each.asp"/>
+	
+  
+	<File Date="2009-09-03T23:13:38.293000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.21" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/arbDB.py">
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-03T23:13:38.293000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.22" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/arbDB.pyc">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2009-09-01T09:43:30" device="0" group_id="0" ino="0" mod_time="2010-07-13T10:41:27" mode="33206" number_links="0" size="24843" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-03T23:13:38.324000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.23" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/FileRegister.py">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2009-08-26T10:48:56" device="0" group_id="0" ino="0" mod_time="2009-09-11T12:03:09" mode="33206" number_links="0" size="2203" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Python_Docstring>
+			&quot;&quot;&quot; The base class for arbitrary database, processes File Register XML 
+    File&quot;&quot;&quot;
+
+		</Python_Docstring>
+	</File>
+	
+  
+	<File Date="2009-09-03T23:13:38.324000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.24" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/FileRegister.xml">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2009-09-01T10:54:08" device="0" group_id="0" ino="0" mod_time="2009-09-10T17:01:11" mode="33206" number_links="0" size="172" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-03T23:13:38.340000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.25" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/FR_STYLE.xsl">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2008-02-29T16:48:09" device="0" group_id="0" ino="0" mod_time="2009-09-03T17:02:25" mode="33206" number_links="0" size="976" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-03T23:13:38.356000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.26" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/test.xml">
+		<System_Metadata acess_time="2011-01-24T13:51:32" creation_time="2009-09-01T10:05:50" device="0" group_id="0" ino="0" mod_time="2009-09-11T09:20:40" mode="33206" number_links="0" size="9457" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-10T23:06:24.404000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.27" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/Evil Plan.ppt">
+		<System_Metadata acess_time="2011-01-24T13:40:25" creation_time="2009-09-08T13:59:23" device="0" group_id="0" ino="0" mod_time="2009-09-10T18:51:00" mode="33206" number_links="0" size="37376" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				Aric Sanders
+			</author>
+			<title>
+				Evil Plan
+			</title>
+			<comments>
+				Good Test of Metadata Also!
+			</comments>
+			<keywords>
+				Evil,plan,etc
+			</keywords>
+			<subject>
+				World Domination
+			</subject>
+		</File_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-11T14:39:18.729000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.28" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/all_spectra.PNG">
+		<System_Metadata acess_time="2011-01-24T13:40:27" creation_time="2009-09-11T08:31:42" device="0" group_id="0" ino="0" mod_time="2008-06-03T10:01:32" mode="33206" number_links="0" size="65087" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<gamma>
+				0.45455
+			</gamma>
+			<dpi>
+				(100, 100)
+			</dpi>
+		</Image_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-11T14:56:52.863000" Host="815as1.bw.nist.gov" Id="132.163.53.152.11.11.11.11.11.13.29" Type="File" URL="file:C:/Documents and Settings/sandersa/My Documents/Share/ArbDB/B738 S1 I 1-4.tif">
+		<System_Metadata acess_time="2011-01-24T13:41:19" creation_time="2009-09-11T08:56:31" device="0" group_id="0" ino="0" mod_time="2007-05-21T13:56:08" mode="33206" number_links="0" size="345069" user_id="0"/>
+		<File_Metadata>
+			<category>
+				None
+			</category>
+			<author>
+				None
+			</author>
+			<title>
+				None
+			</title>
+			<comments>
+				None
+			</comments>
+			<keywords>
+				None
+			</keywords>
+			<subject>
+				None
+			</subject>
+		</File_Metadata>
+		<Image_Metadata>
+			<Image_XResolution>
+				200
+			</Image_XResolution>
+			<Image_StripOffsets>
+				32
+			</Image_StripOffsets>
+			<Image_Software>
+				analySIS 3.2
+			</Image_Software>
+			<compression>
+				raw
+			</compression>
+			<Image_StripByteCounts>
+				336690
+			</Image_StripByteCounts>
+			<Image_RowsPerStrip>
+				522
+			</Image_RowsPerStrip>
+			<Image_Make>
+				SIS, D-48153 Muenster
+			</Image_Make>
+			<Image_Artist>
+				
+			</Image_Artist>
+			<Image_ImageLength>
+				522
+			</Image_ImageLength>
+			<Image_Compression>
+				Uncompressed
+			</Image_Compression>
+			<dpi>
+				(200, 200)
+			</dpi>
+			<Image_PhotometricInterpretation>
+				1
+			</Image_PhotometricInterpretation>
+			<Image_SamplesPerPixel>
+				1
+			</Image_SamplesPerPixel>
+			<Image_Tag_0x00FE>
+				0
+			</Image_Tag_0x00FE>
+			<Image_ImageWidth>
+				645
+			</Image_ImageWidth>
+			<Image_YResolution>
+				200
+			</Image_YResolution>
+			<Image_ResolutionUnit>
+				Not Absolute
+			</Image_ResolutionUnit>
+			<Image_BitsPerSample>
+				8
+			</Image_BitsPerSample>
+			<Image_Tag_0x8318>
+				344735
+			</Image_Tag_0x8318>
+		</Image_Metadata>
+	</File>
+	
+  
+	<File Date="2009-09-11T15:20:38.479000" Host="www.w3schools.com" Id="216.128.29.26.11.12.21" Type="File" URL="http://www.w3schools.com/tags/tag_address.asp"/>
+	
+
+</File_Registry>
