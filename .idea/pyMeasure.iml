@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="testsite" />
     <orderEntry type="module" module-name="ctl" />
+    <orderEntry type="module" module-name="Jupyter-Notebooks" />
   </component>
 </module>

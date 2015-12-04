@@ -23,7 +23,7 @@ import datetime                                    # For timestamping
 import xml.dom                                     # Xml document handling
 import xml.dom.minidom                             # For xml parsing
 from xml.dom.minidom import getDOMImplementation   # Making blank XML documents 
-#from xml.dom.ext import PrettyPrint                # Printing XML without spaces-Needs to be removed is not in 2.6
+#from xml.dom.ext import PrettyPrint               # Printing XML without spaces-Needs to be removed is not in 2.6
 from types import *                                # to allow input testing
 
 #-------------------------------------------------------------------------------
@@ -65,7 +65,10 @@ PYMEASURE_ROOT=os.path.dirname(os.path.realpath(pyMeasure.__file__))
 MEASUREMENTS_DIRECTORY=os.path.join(PYMEASURE_ROOT,'Data','Measurements').replace('\\','/')
 DEFAULT_STATE_XSL=os.path.join(PYMEASURE_ROOT,'Data/States',
 'DEFAULT_STATE_STYLE.XSL').replace('\\','/')
-DEFAULT_MEASUREMENT_XSL='DEFAULT_MEASUREMENT_STYLE.'
+DEFAULT_MEASUREMENT_XSL='DEFAULT_MEASUREMENT_STYLE.XSL'
+
+
+
 
 #-------------------------------------------------------------------------------
 # Class Definitions
