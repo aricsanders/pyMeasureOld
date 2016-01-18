@@ -145,7 +145,7 @@ class MatplotlibWxPanel(wx.Panel):
     def __init__(self, parent, id, pos, size, style, name):
         wx.Panel.__init__(self, parent, id, pos, size, style, name)
 
-        self.SetBackgroundColour(wx.NamedColor("WHITE"))
+        self.SetBackgroundColour(wx.NamedColour("WHITE"))
 
         self.figure = Figure(figsize=(5,4), dpi=100)
         self.axes = self.figure.add_subplot(111)
