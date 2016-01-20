@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Aric_Test_Files_20160109/.idea/Aric_Test_Files_20160109.iml" filepath="$PROJECT_DIR$/../Aric_Test_Files_20160109/.idea/Aric_Test_Files_20160109.iml" />
+      <module fileurl="file://$USER_HOME$/Jupyter-Notebooks/.idea/Jupyter-Notebooks.iml" filepath="$USER_HOME$/Jupyter-Notebooks/.idea/Jupyter-Notebooks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyMeasure.iml" filepath="$PROJECT_DIR$/.idea/pyMeasure.iml" />
     </modules>
   </component>
