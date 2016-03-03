@@ -46,15 +46,15 @@ except:
 
 # For auto generation of common method aliases
 try:
-    from pyMeasure.Code.Misc.Alias import *
+    from pyMeasure.Code.Utils.Alias import *
     METHOD_ALIASES=1
 except:
-    print("The module pyMeasure.Code.Misc.Alias was not found")
+    print("The module pyMeasure.Code.Utils.Alias was not found")
     METHOD_ALIASES=0
     pass
 #-------------------------------------------------------------------------------
 # Constants
-PYMEASURE_ROOT=os.path.dirname(os.path.realpath(pyMeasure.__file__))
+TESTS_DIRECTORY=os.path.join(os.path.dirname(os.path.realpath(__file__)),'Tests')
 
 #-------------------------------------------------------------------------------
 # Classes
@@ -138,7 +138,8 @@ class EtreeXML():
 # Scripts
 def test_EtreeXML():
     """ Tests the EtreeXML Class"""
-    new_xml=EtreeXML(os.path.join(PYMEASURE_ROOT,'Settings/Test/SRS830_Lockin1.xml'))
+    os.chdir(TESTS_DIRECTORY)
+    new_xml=EtreeXML(open('SRS830_Lockin1.xml','r'))
     #print etree.tostring(new_xml.document)
     root_element=new_xml.document.getroot()
     

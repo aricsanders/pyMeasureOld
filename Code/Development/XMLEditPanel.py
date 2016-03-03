@@ -22,7 +22,7 @@ except:
     raise
 
 try:
-    from pyMeasure.Code.Development.XMLGeneral import *
+    from pyMeasure.Code.FrontEnds.XMLGeneral import *
     from pyMeasure.Code.Development.StyledTextCtrlPanel import *
     
 except:

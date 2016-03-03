@@ -51,13 +51,13 @@ import wx
 import wx.stc
 import wx.py.introspect
 
-import Preferences, Utils
-from Preferences import keyDefs
-from Views import StyledTextCtrls
-from Models import EditorHelper
+from Boa import Preferences, Utils
+from Boa.Preferences import keyDefs
+from Boa.Views import StyledTextCtrls
+from Boa.Models import EditorHelper
 
-from ExternalLib.PythonInterpreter import PythonInterpreter
-from ExternalLib import Signature
+from Boa.ExternalLib.PythonInterpreter import PythonInterpreter
+from Boa.ExternalLib import Signature
 
 
 echo = True
@@ -137,7 +137,7 @@ class ShellEditor(wx.stc.StyledTextCtrl,
             copyright = sys.copyright
         else:
             copyright = p2c
-        import __version__
+        import Boa.__version__ as __version__
         self.AddText('# Python %s\n# wxPython %s, Boa Constructor %s\n# %s'%(
               sys.version, wx.__version__, __version__.version, copyright))
         #return so it looks right
@@ -598,7 +598,7 @@ class ShellPanel(wx.Panel):
 
 
 if __name__ == '__main__':
-    app = wx.PySimpleApp()
+    app = wx.App(False)
     frame = wx.Frame(None,size=wx.Size(762, 502))
     panel=ShellPanel(id=1, name=u'ShellPanel',
               parent=frame, pos=wx.Point(350, 204), size=wx.Size(762, 502),

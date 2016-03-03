@@ -2,12 +2,8 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 2.7.11 (C:\Anaconda2\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7.11 (C:\python27\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="testsite" />
-    <orderEntry type="module" module-name="ctl" />
-    <orderEntry type="module" module-name="Jupyter-Notebooks" />
-    <orderEntry type="module" module-name="Aric_Test_Files_20160109" />
     <orderEntry type="module" module-name="Jupyter-Notebooks" />
   </component>
   <component name="ReSTService">
