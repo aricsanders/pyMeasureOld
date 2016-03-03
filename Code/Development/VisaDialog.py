@@ -192,7 +192,8 @@ class VisaDialog(wx.Dialog):
         self._init_ctrls(parent)
         
         # Look for visa instruments
-        self.instrument_list=visa.get_instruments_list()
+        self.resource_manager=visa.ResourceManager()
+        self.instrument_list=self.resource_manager.list_resources()
         for instrument in self.instrument_list:
             self.InstrumentChoice.Append(instrument)
 
@@ -200,7 +201,7 @@ class VisaDialog(wx.Dialog):
         
         address=self.InstrumentChoice.GetStringSelection()
         #print address
-        self.active_instrument=visa.Instrument(address)
+        self.active_instrument=self.resource_manager.open_resource(address)
         event.Skip()
 
     def OnWriteButtonButton(self, event):

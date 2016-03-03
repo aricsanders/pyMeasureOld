@@ -8,7 +8,7 @@
 # Created:     2009/09/01
 # RCS-ID:      $Id: FileRegister.py $
 #-----------------------------------------------------------------------------
-""" Arbitary Database are tools for working with a XML database of URLs """
+""" Arbitrary Database are tools for working with a XML database of URLs """
 
 #-------------------------------------------------------------------------------
 # Standard Imports-- All in the python standard library
