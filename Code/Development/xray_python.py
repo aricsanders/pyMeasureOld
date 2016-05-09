@@ -350,7 +350,7 @@ def make_report_script():
     pass
 def make_plots_for_paper_script(plot_type,**plot_options):
     """ Makes plots for the core shell nanowire paper"""
-    file_list=os.listdir(XRAY_DIRECTORY)
+    #file_list=os.listdir(XRAY_DIRECTORY)
     # First we want to plot all of the diffractions before and after overcoating
     # For at least one sample. 
     diffraction_list=['002','004','006','104','105','205']
